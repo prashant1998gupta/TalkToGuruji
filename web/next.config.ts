@@ -8,12 +8,6 @@ const nextConfig: NextConfig = {
     remotePatterns: [{ protocol: 'https', hostname: 'i.ytimg.com' }],
   },
   experimental: { optimizePackageImports: ['lucide-react', 'framer-motion', '@react-three/drei'] },
-  async redirects() {
-    return [
-      // old site used a capitalised path
-      { source: '/astrology-services/Panchang', destination: '/astrology-services/panchang', permanent: true },
-    ];
-  },
 };
 
 export default nextConfig;
