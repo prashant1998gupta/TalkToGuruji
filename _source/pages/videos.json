@@ -1,0 +1,42 @@
+{
+ "path": "/videos",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/videos/[[...slug]]",
+ "pageProps": {
+  "allVideo": {
+   "data": [
+    {
+     "id": 10,
+     "slug": "Bure-samay-me-kare-ye -kaam-shani-dev",
+     "title": "Bure Time me Kare Ye Kaam | Shani Dev: Aapki Zindagi Badal Denge",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Shani_Dev_Remedies.webp",
+     "status": "publish"
+    },
+    {
+     "id": 9,
+     "slug": "2025-prediction-name-first letter-astrology",
+     "title": "2025 Mein Aapka Saal Kaisa Rahega? Naam Ke Pehle Akshar (A-Z) Se Janein",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Name_Horoscope_2025.webp",
+     "status": "publish"
+    },
+    {
+     "id": 8,
+     "slug": "Mulank-1-9-2025-prediction",
+     "title": "Mulank 1 - 9 2025 Predictions | 1 - 9 Numerology Predictions 2025 | भविष्यफल 2025 by Talk to Guruji",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Numerology_1_2025.webp",
+     "status": "publish"
+    },
+    {
+     "id": 7,
+     "slug": "complete-yearly-horoscope-2025",
+     "title": "Complete Yearly Horoscope 2025 | 2025 Varshik Rashifal by Talk to Guruji ",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Zodiac_Horoscope_2025.webp",
+     "status": "publish"
+    }
+   ]
+  },
+  "singleVideo": null
+ }
+}

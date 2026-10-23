@@ -1,0 +1,18 @@
+{
+ "path": "/horoscope/yearly",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/horoscope/[[...slug]]",
+ "pageProps": {
+  "horoscopeData": {
+   "daily": null,
+   "monthly": null,
+   "yearly": null,
+   "weekly": null,
+   "allHoroscope": null,
+   "startDate": "2026-10-11",
+   "endDate": "2026-10-17"
+  }
+ }
+}

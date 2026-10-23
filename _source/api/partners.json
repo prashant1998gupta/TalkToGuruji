@@ -1,0 +1,19 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 6,
+   "partner_name": "googlydeliveryy",
+   "links": "https://www.delhivery.com/",
+   "created_at": "2025-05-21T12:28:19.000Z",
+   "updated_at": null
+  },
+  {
+   "id": 5,
+   "partner_name": "delhiveryboy",
+   "links": "https://talktoguruji.com",
+   "created_at": "2025-04-24T12:30:44.000Z",
+   "updated_at": null
+  }
+ ]
+}

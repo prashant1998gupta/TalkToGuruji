@@ -1,0 +1,350 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 60,
+   "title": "Shiv Shakti in Sawan: Divine Union in Devotion",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-07-31T05:22:41.000Z",
+   "description": "<p>In the holy month of Sawan, we celebrate not just devotion—but divine balance.</p>",
+   "slug": "shiv-shakti-in-sawan",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Guruji",
+   "photos": [
+    {
+     "photo_id": 328,
+     "gallery_id": 60,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.46.58_AM.png",
+     "title": "Shiva & Parvati – The Cosmic Couple",
+     "description": "<p>Lord Shiva and Goddess Parvati represent the perfect union of strength and compassion—of stillness and energy.</p>",
+     "input_order": 0,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 329,
+     "gallery_id": 60,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.48.01_AM.png",
+     "title": "Feminine Meets Masculine",
+     "description": "<p>Shiva is consciousness; Shakti is creation. Together, they are complete. Sawan reminds us of this cosmic harmony.</p>",
+     "input_order": 1,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 330,
+     "gallery_id": 60,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.48.54_AM.png",
+     "title": "Devotion as a Love Story",
+     "description": "<p>Parvati’s unwavering devotion won Shiva’s heart. Their story inspires faith, patience, and the power of pure love.</p>",
+     "input_order": 2,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 331,
+     "gallery_id": 60,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.50.13_AM.png",
+     "title": "The Swing of Seasons & Souls",
+     "description": "<p>Sawan jhulas are not just festive—they symbolize the rhythmic dance of feminine energy in union with the divine.</p>",
+     "input_order": 3,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 332,
+     "gallery_id": 60,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.51.59_AM.png",
+     "title": " When Devotion Balances Energies",
+     "description": "<p>In every prayer, there’s both strength and surrender—just like Shiv and Shakti. Sawan teaches us how to honor both.</p><p><br></p><p>May this Sawan help you unite your own inner Shiva and Shakti—bringing peace, power, and purpose into your life.</p>",
+     "input_order": 4,
+     "type": "gallery"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "title": " Shiva Through the Lens: Sacred Symbols of Sawan",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-07-30T05:40:30.000Z",
+   "description": "<p>A visual journey into the divine symbols of Lord Shiva and their spiritual meanings.</p>",
+   "slug": " shiva-through-the-lens",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Guruji",
+   "photos": [
+    {
+     "photo_id": 316,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_12.15.53_PM.png",
+     "title": "Rudraksha Beads",
+     "description": "<p>Rudraksha, Shiva’s teardrops, are worn for protection, peace, and spiritual growth—each bead a step closer to the divine.</p>",
+     "input_order": 0,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 317,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.07.50_AM.png",
+     "title": "Nandi (The Sacred Bull)",
+     "description": "<p>Nandi, Shiva’s vahana and devotee, embodies loyalty, patience, and silent strength—always waiting, always faithful.</p>",
+     "input_order": 1,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 318,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.06.36_AM.png",
+     "title": "Bel Patra (Bael Leaves)",
+     "description": "<p>Offering Bel Patra pleases Lord Shiva—the three leaves symbolize purity of mind, body, and soul.</p>",
+     "input_order": 2,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 319,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.00.03_AM.png",
+     "title": "Damru (Drum)",
+     "description": "<p>The Damru represents the cosmic sound of creation—<em>AUM</em>—the eternal rhythm from which the universe was born.</p>",
+     "input_order": 3,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 320,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_12.14.06_PM.png",
+     "title": "Trishul (Trident)",
+     "description": "<p>The Trishul symbolizes Shiva’s power to destroy ego, ignorance, and illusion—guiding us toward truth and liberation.</p>",
+     "input_order": 4,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 321,
+     "gallery_id": 59,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.09.53_AM.png",
+     "title": "Shiva Linga",
+     "description": "<p>The Shiva Linga is not just a form—it’s the formless. A symbol of infinite creation, cosmic energy, and divine consciousness.</p>",
+     "input_order": 5,
+     "type": "gallery"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "title": "Navratri Sacred Colors: A Photo Gallery for Each Day - Updated",
+   "collection_id": null,
+   "status": "draft",
+   "img_url": "",
+   "created_at": "2025-03-17T18:53:58.000Z",
+   "description": "<p>This updated gallery showcases the vibrant palette of Navratri’s sacred colors, offering new visual inspiration and spiritual guidance.</p>",
+   "slug": "navratri-sacred-colors-photo-gallery",
+   "meta_title": "Navratri Sacred Colors: A Photo Gallery for Each Day - Updated",
+   "meta_keyword": "Navratri sacred colors, Navratri colors by day, nine colors of Navratri, Navratri 2025 colors, Navratri color significance",
+   "meta_description": "Explore the Navratri Sacred Colors photo gallery updated with the significance of each day’s color.",
+   "author": "Raghvendra Singh",
+   "photos": [
+    {
+     "photo_id": 186,
+     "gallery_id": 47,
+     "photo": "https://talktoguruji.com/upload/file/Day_2_Red-navratri.webp",
+     "title": "Day 2: Red - The Symbol of Love and Vitality (Updated)",
+     "description": "<p>On the second day, Red takes center stage, reflecting passion and energy. Updated details here.</p>",
+     "input_order": 0,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 187,
+     "gallery_id": 47,
+     "photo": "https://talktoguruji.com/upload/file/Day_3_Royal_Blue_navratri.webp",
+     "title": "Day 3: Royal Blue - The Hue of Elegance and Richness",
+     "description": "<p>Royal Blue graces Day 3 with vivid brilliance, symbolizing richness and tranquility.</p>",
+     "input_order": 1,
+     "type": "gallery"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "title": "Three Prosperous Yogas to Transform Your 2025",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-03-17T07:36:05.000Z",
+   "description": "<p>Unlock prosperity in 2025 with three auspicious Raj yogas bringing wealth and positive changes. Malavya Rajyoga enhances abundance and well-being. Lakshmi Narayan Yoga provides growth and financial stability. Gajakesari Yoga brings transformative opportunities for success. Embrace an auspicious year filled with prosperity and opportunities. Looking forward to all the good things 2025 has in store!</p>",
+   "slug": "three-prosperous-yogas-transform-2025",
+   "meta_title": "Three Prosperous Yogas in 2025: Transform Your Year with Wealth and Positi",
+   "meta_keyword": "2025 yogas, Malavya Rajyoga, Lakshmi Narayan Yoga, Gajakesari Yoga, astrology 2025, zodiac wealth, auspicious yogas, prosperity 2025",
+   "meta_description": "Discover three auspicious yogas forming in 2025 that promise wealth and prosperity. Learn how Malavya Rajyoga, Lakshmi Narayan Yoga, and Gajakesari Yoga will bring positive changes to your life and zodiac sign.",
+   "author": "Raghvendra Singh",
+   "photos": [
+    {
+     "photo_id": 182,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Laxmi_Narayan_Yog.webp",
+     "title": "Lakshmi Narayan Yoga",
+     "description": "<p><strong style=\"background-color: transparent;\">Blessings of Wealth and Prosperity</strong></p><p><br></p><p><span style=\"background-color: transparent;\">Lakshmi Narayan Yoga graces Pisces from February 27 to May 7, 2025, bestowing wealth and blessings on Gemini, Virgo, Sagittarius, and Pisces.</span></p>",
+     "input_order": 2,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 183,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Malavvya_rajyog.webp",
+     "title": "Malavya Rajyoga",
+     "description": "<p><strong style=\"background-color: transparent;\">A Rare and Powerful Rajyoga</strong></p><p><br></p><p><span style=\"background-color: transparent;\"><span class=\"ql-cursor\">﻿</span>The first auspicious yoga of 2025, Malavya Rajyoga, forms on January 28, bringing wealth and beauty to Taurus, Gemini, Virgo, and Pisces</span></p>",
+     "input_order": 1,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 184,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Gaj_kesari_yog.webp",
+     "title": "Gajakesari Yoga",
+     "description": "<p><strong style=\"background-color: transparent;\">Auspicious and Transformative Yoga</strong></p><p><br></p><p><span style=\"background-color: transparent;\">On May 15, 2025, Gajakesari Yoga forms as Jupiter enters Gemini, enhancing wealth and positivity for Gemini, Virgo, Aquarius, Leo, and Aries.</span></p>",
+     "input_order": 3,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 185,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Rajyogas_in_2025.webp",
+     "title": "Three Prosperous Yogas to Transform Your 2025",
+     "description": "<p><strong style=\"background-color: transparent;\">Bringing Prosperity in 2025</strong></p><p><br></p><p><span style=\"background-color: transparent;\">Discover the three auspicious yogas forming in 2025 that promise wealth and prosperity. Learn how these yogas will influence your zodiac sign and bring positive changes.</span></p><p><br></p><p><br></p>",
+     "input_order": 0,
+     "type": "gallery"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "title": "4 Most Dangerous Zodiac Signs",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-02-21T08:38:41.000Z",
+   "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Each zodiac sign carries its unique traits, but some signs are often perceived as more intense, assertive, and dangerous than others. This photo gallery explores the four most dangerous zodiac signs, delving into their distinct personalities, strengths, and reasons behind their reputation. From the fiery determination of Aries to the intense passion of Scorpio, discover the traits that make these signs stand out in the zodiac world.</span></p>",
+   "slug": "most-dangerous-sunsigns",
+   "meta_title": "The 4 Most Dangerous Zodiac Signs: Unraveling the Mystique",
+   "meta_keyword": "Dangerous Zodiac Signs, Aries,  Scorpio, Leo, Capricorn, Most Dangerous Signs, Zodiac Strengths, Astrology",
+   "meta_description": "Explore the top 4 most dangerous zodiac signs, showcasing their bold, intense, and fearless traits in this captivating photo gallery.",
+   "author": "Raghvendra Singh",
+   "photos": [
+    {
+     "photo_id": 122,
+     "gallery_id": 44,
+     "photo": "https://talktoguruji.com/upload/file/Leo_Proud_king.png",
+     "title": "Leo – The Proud King",
+     "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Leo: The Proud King</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Leos exude strength, leadership, and pride. When their authority is challenged, their fiery temper and immense pride can turn them into a formidable force.</span></p>",
+     "input_order": 2,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 123,
+     "gallery_id": 44,
+     "photo": "https://talktoguruji.com/upload/file/Aries__The_warrier.png",
+     "title": "Aries – The Fearless Warrior",
+     "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Aries: The Fearless Warrior</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Known for their boldness and unyielding nature, Aries’ fearlessness and fiery temperament often lead them to clash with anyone who dares to stand in their way.</span></p>",
+     "input_order": 0,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 124,
+     "gallery_id": 44,
+     "photo": "https://talktoguruji.com/upload/file/Intense_scorpion_strategist.png",
+     "title": "Scorpio – The Intense Strategist",
+     "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Scorpio: The Intense Strategist</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">With their deep, mysterious nature and relentless determination, Scorpios can be dangerous when their intense emotions or loyalty is tested.</span></p>",
+     "input_order": 1,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 125,
+     "gallery_id": 44,
+     "photo": "https://talktoguruji.com/upload/file/Mastermind_Capricorn.png",
+     "title": "Capricorn – The Calculated Mastermind",
+     "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Capricorn: The Calculated Mastermind</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Capricorns are known for their calculated approach and perseverance. When pushed to their limits, they can be cold, calculating, and highly dangerous in their pursuit of success.</span></p>",
+     "input_order": 3,
+     "type": "gallery"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "title": "Special Snan (Bathing) Days at Mahakumbh",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-02-21T08:13:10.000Z",
+   "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Experience the spiritual significance of the special Snan (bathing) days during the Mahakumbh. These auspicious dates, such as Makar Sankranti, Mauni Amavasya, and Basant Panchami, attract millions of devotees who believe that a dip in the sacred waters of the Ganga purifies the soul. This photo gallery captures the powerful essence of these divine bathing rituals, where faith and spirituality converge in a life-changing experience</span></p>",
+   "slug": "special-snan-days-mahakumbh2025",
+   "meta_title": "Special Snan Days: The Divine Cleansing at Mahakumbh",
+   "meta_keyword": "Mahakumbh 2025 | Snan Days | Sacred Bathing | Makar Sankranti | Mauni Amavasya, Basant Panchami, Ganga Snan, Spiritual Cleansing",
+   "meta_description": "Explore the sacred Snan days of Mahakumbh, where millions of devotees cleanse their soul in the holy Ganga. A visual journey through the divine bathing rituals on auspicious dates.",
+   "author": "Manish Kumar",
+   "photos": []
+  },
+  {
+   "id": 35,
+   "title": "Sadhus and Saints of Mahakumbh: A Spiritual Odyssey",
+   "collection_id": null,
+   "status": "publish",
+   "img_url": "",
+   "created_at": "2025-02-13T05:34:21.000Z",
+   "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Immerse yourself in the grandeur of Mahakumbh with this photo gallery dedicated to the sadhus and saints who embody its spiritual essence. Discover the devotion, rituals, and traditions of these mystical figures, each representing a unique path to enlightenment. From the ascetic Naga Sadhus to the divine feminine power of yoginis, this gallery unveils the vibrant spiritual tapestry of the world’s largest gathering of faith.</span></p>",
+   "slug": "sadhus-and-saints-of-mahakumbh: a-spiritual-odyssey",
+   "meta_title": "",
+   "meta_keyword": " Sadhus | Saints | Naga Sadhus | Aghori | Yoginis | Mahakumbh 2025 | Spiritual Gatherings | Rituals | Akharas | Ganga Aarti",
+   "meta_description": "Explore the spiritual heart of Mahakumbh through a stunning photo gallery showcasing Naga Sadhus, Aghoris, women saints, and their sacred rituals.",
+   "author": "talktoguruji.in",
+   "photos": [
+    {
+     "photo_id": 68,
+     "gallery_id": 35,
+     "photo": "https://talktoguruji.com/upload/file/naga_sadhu_procession11.svg",
+     "title": "The Spiritual Heart of Mahakumbh",
+     "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Witness the devotion and energy of sadhus and saints at the world’s largest spiritual gathering.</span></p>",
+     "input_order": 0,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 69,
+     "gallery_id": 35,
+     "photo": "https://talktoguruji.com/upload/file/Naga_sadhu_2222.svg",
+     "title": "Naga Sadhus: Warriors of Spirituality",
+     "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Symbolizing renunciation, Naga Sadhus are known for their deep meditation and austerity.</span></p>",
+     "input_order": 1,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 70,
+     "gallery_id": 35,
+     "photo": "https://talktoguruji.com/upload/file/aghori_sadhu_meditation_3333.svg",
+     "title": "Aghoris: Seekers of the Divine Truth",
+     "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Aghoris represent the extreme path of spirituality, focusing on the liberation of the soul.</span></p>",
+     "input_order": 2,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 71,
+     "gallery_id": 35,
+     "photo": "https://talktoguruji.com/upload/file/Saints_Pooja_5555.svg",
+     "title": "Sacred Rituals and Blessings",
+     "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Experience the transformative power of ancient rituals performed by saints during the Mahakumbh.</span></p>",
+     "input_order": 3,
+     "type": "gallery"
+    },
+    {
+     "photo_id": 72,
+     "gallery_id": 35,
+     "photo": "https://talktoguruji.com/upload/file/sadhvi_pooja_4444.svg",
+     "title": "Yoginis: The Divine Feminine in Mahakumbh",
+     "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Honoring the significant role of women in spiritual traditions and practices at the Mahakumbh.</span></p><p><br></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Note: All Images have been created using AI</strong></p>",
+     "input_order": 4,
+     "type": "gallery"
+    }
+   ]
+  }
+ ]
+}

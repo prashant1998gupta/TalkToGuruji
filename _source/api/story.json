@@ -1,0 +1,641 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 125,
+   "title": "Sawan Fasts & Rituals: A Devotee’s Journey",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-07-31T05:40:21.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.00.30_AM.png",
+   "description": null,
+   "slug": "sawan-fasts-rituals",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Guruji",
+   "photos": [
+    {
+     "photo_id": 333,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.03.33_AM.png",
+     "title": "Preparing the Vrat Thali",
+     "description": "<p>Fruits, bel patra, milk, and sweets—each item placed with devotion, offered as a symbol of love and surrender.</p>",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 334,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.04.45_AM.png",
+     "title": "Tying the Kalava",
+     "description": "<p>The red sacred thread (kalava) is tied with a prayer — a reminder of protection and divine connection.</p>",
+     "input_order": 2,
+     "type": "story"
+    },
+    {
+     "photo_id": 335,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.06.07_AM.png",
+     "title": "Journey to the Temple",
+     "description": "<p>Steps taken barefoot, with chants on the lips and faith in the heart — a journey of devotion.</p>",
+     "input_order": 3,
+     "type": "story"
+    },
+    {
+     "photo_id": 336,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.08.24_AM.png",
+     "title": "Jal Abhishek",
+     "description": "<p>Pouring water over the Shivling symbolizes surrender, cleansing, and devotion—an act repeated for centuries.</p>",
+     "input_order": 5,
+     "type": "story"
+    },
+    {
+     "photo_id": 337,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.01.55_AM.png",
+     "title": " The Sacred Beginning",
+     "description": "<p>Before sunrise, the day begins with a pure heart and a simple resolve to fast for Lord Shiva.</p>",
+     "input_order": 0,
+     "type": "story"
+    },
+    {
+     "photo_id": 338,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.10.06_AM.png",
+     "title": " The Fast Ends with Faith",
+     "description": "<p>The day closes with gratitude and quiet strength. Sawan fasts aren't just rituals—they are a return to the self.</p>",
+     "input_order": 6,
+     "type": "story"
+    },
+    {
+     "photo_id": 339,
+     "gallery_id": 125,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.07.10_AM.png",
+     "title": "The Shiva Katha",
+     "description": "<p>Listening to or reading the stories of Shiva deepens the spiritual bond — a ritual of the soul as much as the mind.</p>",
+     "input_order": 4,
+     "type": "story"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "title": "Colors of Devotion: Sawan Vibes Around India",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-07-30T05:58:31.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.16.01_AM.png",
+   "description": null,
+   "slug": "colours-of-sawan",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Guruji",
+   "photos": [
+    {
+     "photo_id": 322,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.18.38_AM.png",
+     "title": "Kanwar Yatra (Pilgrimage of Faith)",
+     "description": "<p>Millions of devotees walk barefoot to offer holy water to Shiva—an act of deep penance and devotion during Shravan.</p>",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 323,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.20.22_AM.png",
+     "title": "Temple Decorations (Monsoon Adorned Mandirs)",
+     "description": "<p>Temples across India glow with green decorations in Sawan, inviting the monsoon’s freshness into sacred spaces.</p>",
+     "input_order": 2,
+     "type": "story"
+    },
+    {
+     "photo_id": 324,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.21.58_AM.png",
+     "title": "Green Sarees & Mehendi (Shravan Shringar",
+     "description": "<p>Green, the color of life and fertility, is worn by women during Sawan as they pray for their family’s well-being and longevity.</p>",
+     "input_order": 3,
+     "type": "story"
+    },
+    {
+     "photo_id": 325,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.28.08_AM.png",
+     "title": "Rain & Reverence (Nature and God Together)",
+     "description": "<p>Sawan isn’t just a ritual—it’s a feeling. When the skies open, hearts follow, drenching devotion in the rhythm of rain.</p>",
+     "input_order": 5,
+     "type": "story"
+    },
+    {
+     "photo_id": 326,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.24.42_AM.png",
+     "title": "Regional Rituals (Different States, One Spirit)",
+     "description": "<p>From Maharashtra’s Shravan Mondays to Odisha’s Bol Bom chants, every region adds its unique flavor to this devotional season.</p>",
+     "input_order": 4,
+     "type": "story"
+    },
+    {
+     "photo_id": 327,
+     "gallery_id": 124,
+     "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.17.16_AM.png",
+     "title": " Sawan Jhulas (Swings in the Monsoon Breeze)",
+     "description": "<p>In North India, especially in UP and Bihar, swings are hung in gardens during Sawan, symbolizing joy and the playful love of Shiva and Parvati.</p>",
+     "input_order": 0,
+     "type": "story"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "title": "Which Planet Is Causing Your Stress Right Now?",
+   "status": "draft",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-06-26T06:15:50.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Screenshot 2025-06-26 at 11.45.20â¯AM.png",
+   "description": null,
+   "slug": "which-planet-is-causing-your-stress-right-now",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya",
+   "photos": []
+  },
+  {
+   "id": 81,
+   "title": "Jyeshtha Purnima ",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-06-08T14:59:59.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/jyeshtha-purnima-2025.png",
+   "description": null,
+   "slug": "jyeshtha-purnima ",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya",
+   "photos": []
+  },
+  {
+   "id": 75,
+   "title": "Anvadhan 26th May 2025",
+   "status": "draft",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-05-26T07:14:57.000Z",
+   "img_url": null,
+   "description": null,
+   "slug": "Anvadhan-story",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya Grover",
+   "photos": []
+  },
+  {
+   "id": 74,
+   "title": "Navratri Sacred Colors: A Photo Gallery for Each Day",
+   "status": "draft",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-05-22T10:40:59.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/navratri-cover.webp",
+   "description": null,
+   "slug": "navratri-sacred-colors-photo-gallery",
+   "meta_title": "Navratri Sacred Colors: A Photo Gallery for Each Day",
+   "meta_keyword": "Navratri sacred colors, Navratri colors by day, nine colors of Navratri, Navratri 2025 colors, Navratri color significance, spiritual colors for Navratri, colors for Maa Durga, Navratri traditions 2025, festive colors of Navratri, daily Navratri rituals",
+   "meta_description": "Explore the Navratri Sacred Colors photo gallery and learn about the significance of each day’s color. Discover how these vibrant hues symbolize the divine energies of Maa Durga and enhance your spiritual journey.",
+   "author": "Raghvendra Singh",
+   "photos": []
+  },
+  {
+   "id": 70,
+   "title": "Kalashtami 2025",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-05-20T09:13:44.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/ws1.jpeg",
+   "description": null,
+   "slug": "Kalashtami-ws",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya",
+   "photos": [
+    {
+     "photo_id": 277,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws2.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 0,
+     "type": "story"
+    },
+    {
+     "photo_id": 278,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws5.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 3,
+     "type": "story"
+    },
+    {
+     "photo_id": 279,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws7.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 5,
+     "type": "story"
+    },
+    {
+     "photo_id": 280,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws4.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 2,
+     "type": "story"
+    },
+    {
+     "photo_id": 281,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws3.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 282,
+     "gallery_id": 70,
+     "photo": "https://talktoguruji.com/upload/file/ws6.jpeg",
+     "title": "",
+     "description": "",
+     "input_order": 4,
+     "type": "story"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "title": "Evil Eye and Negativity Removal Remedies",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-05-20T07:35:41.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/evil-eye-negativity-removal-2025.png",
+   "description": null,
+   "slug": "evil-eye-and-negativity-removal-remedies",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Kairvi Punj",
+   "photos": []
+  },
+  {
+   "id": 54,
+   "title": "In 2025, Numerology Says: Let Go to Grow",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-05-16T10:24:05.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/webstory-2025-05-16.png",
+   "description": null,
+   "slug": "in-2025-numerology-says-let-go-to-grow",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Kairvi Punj",
+   "photos": []
+  },
+  {
+   "id": 52,
+   "title": "Ekdanta Sankashti Chaturthy",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-05-14T06:56:00.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-05-14_at_12.15.03_(2).jpeg",
+   "description": null,
+   "slug": "ekdanta-sankashti-chaturthi ",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya",
+   "photos": []
+  },
+  {
+   "id": 51,
+   "title": "Narad Jayanti 2025",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-05-13T10:44:43.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-05-13_at_16.10.10.jpeg",
+   "description": null,
+   "slug": "narad-jayanti",
+   "meta_title": "",
+   "meta_keyword": "",
+   "meta_description": "",
+   "author": "Sanya Grover",
+   "photos": []
+  },
+  {
+   "id": 49,
+   "title": "Your Zodiac’s Power Color for Each Navratri Day",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-03-18T20:25:47.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Main_image_webgallery.webp",
+   "description": null,
+   "slug": "your-zodiacs-power-color-navratri",
+   "meta_title": "Your Zodiac’s Power Color for Each Navratri Day",
+   "meta_keyword": "Navratri zodiac colors, zodiac power colors, Navratri color choices, zodiac colors for rituals, astrology and Navratri, zodiac signs and colors, Navratri celebration ideas, spiritual colors by zodiac, Navratri color gallery, zodiac Navratri tips",
+   "meta_description": " Discover your zodiac’s power color for each Navratri day. Explore how aligning with your astrological color can enhance your spiritual connection and energize your Navratri rituals.",
+   "author": "Raghvendra Singh",
+   "photos": []
+  },
+  {
+   "id": 48,
+   "title": "2025 Impact On Your Year Journey Through Numerology",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-02-28T08:14:55.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/2025-_Numerology.webp",
+   "description": null,
+   "slug": "2025-impact-on-your-year-journey-through-numerology",
+   "meta_title": "Embrace 2025: Personal Growth, Relationships, and Global Trends",
+   "meta_keyword": "2025 Impact, Personal Growth, Relationships, Deep Connections, Global Trends, Stay Grounded, Embrace Change, Number 9 Energy, Completion, Compassion, Release, Transformation, Growth, Letting Go, Fresh Beginning, Universal Year 1",
+   "meta_description": "Discover how 2025, a universal year 9, will impact personal growth, relationships, and global trends. Learn to stay grounded and embrace change as you reflect on your journey and align with your true purpose. Prepare for a year of transformation and growth, and get ready for a fresh beginning in 2026. Focus on closing this chapter with grace through decluttering, self-reflection, and spreading positivity.",
+   "author": "Kairvi Punj",
+   "photos": []
+  },
+  {
+   "id": 47,
+   "title": "Remedies For Inner Peace And  Calmness 2025",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-02-28T07:14:29.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/peace_and_calm.webp",
+   "description": null,
+   "slug": "remedies-fo- inner-peace-and-calmness-2025",
+   "meta_title": "Finding Inner Calm in 2025: Embrace the Flow and Stay Grounded",
+   "meta_keyword": "Inner Calm, 2025 Universal Year 9, Change and Endings, Simple Mantras, Remedies for Peace, Water Therapy, Detox and Refresh, Nature Walks, Aromatherapy, Crystal Healing, Small Rituals, Deep Breathing, Meditation, Journaling, Mental Health, Power Mantras, Om Shanti",
+   "meta_description": "Navigate the transformative energy of 2025's universal year 9 with simple mantras and remedies to stay calm and grounded. Discover peace through water therapy, nature walks, aromatherapy, crystal healing, and small rituals. Embrace the journey with daily meditation, journaling, and setting boundaries. Align with universal energy using power mantras like \"Om Shanti Shanti Shanti\" for mental peace and personal growth.",
+   "author": "Kairvi Punj",
+   "photos": []
+  },
+  {
+   "id": 46,
+   "title": "Evil Eye and Negativity Removal Remedies",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-02-28T06:43:49.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Evil_Eye1.webp",
+   "description": null,
+   "slug": "eveil-eye-and-negativity-removal-remedies",
+   "meta_title": "Shield Yourself from Negativity in 2025: Powerful Remedies for Evil Eye Protection",
+   "meta_keyword": "Evil Eye, Negativity Removal, 2025 Remedies, Universal Year 9, Energy Transformation, Protect Aura, Salt Cleansing, Smudging, Protective Charms, Lemon and Chilli Rituals, Positive Energy, Daily Affirmations",
+   "meta_description": "Learn how to shield yourself from negativity in 2025 as the universal year 9 energy encourages transformation. Discover powerful remedies for protection such as salt cleansing, smudging, protective charms, and lemon and chilli rituals. Maintain positive energy with daily affirmations like \"I am surrounded by love and positivity.\"",
+   "author": "Kairvi Punj",
+   "photos": [
+    {
+     "photo_id": 173,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Webstories_2025_Tips3.webp",
+     "title": "Remedy 2",
+     "description": "",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 174,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Webstories_2025_Tips2.webp",
+     "title": "Remedy 1",
+     "description": "<p> </p>",
+     "input_order": 0,
+     "type": "story"
+    },
+    {
+     "photo_id": 175,
+     "gallery_id": 46,
+     "photo": "https://talktoguruji.com/upload/file/Webstories_2025_Tips4.webp",
+     "title": "Remedy 3",
+     "description": "<p> </p>",
+     "input_order": 2,
+     "type": "story"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "title": "Powerful Mantras and Wealth Attraction ",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-02-28T06:16:38.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/Wealth3.webp",
+   "description": null,
+   "slug": "powerful-mantra-and-wealth-attraction-2025",
+   "meta_title": "Unlocking Cosmic Energy: The Power of Mantras",
+   "meta_keyword": "Gayatri Mantra, OM Chanting, Lord Ganesha Mantra, Goddess Durga Mantra, Positive Energy, Prosperity, Clarity, Abundance, Courage, Well-being, Vedic Chants, Protective Energy, Cosmic Energy",
+   "meta_description": "Discover the transformative power of different mantras, including the Gayatri Mantra, Lord Ganesha's Mantra, and Goddess Durga's Mantra. Learn how these ancient Vedic chants foster positive energy, prosperity, clarity, abundance, courage, and well-being through sincere devotion and chanting.",
+   "author": "Kritika Raje",
+   "photos": []
+  },
+  {
+   "id": 42,
+   "title": "2025 Zodiac Forecast",
+   "status": "publish",
+   "user_id": "20",
+   "collection_id": null,
+   "created_at": "2025-02-25T06:11:23.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/astrology_forecast1_(1).png",
+   "description": null,
+   "slug": "2025-zodiac-forecast",
+   "meta_title": "2025 Zodiac Forecast: Cosmic Surprises and Opportunities for Every Sign",
+   "meta_keyword": "2025 zodiac forecast, horoscope 2025, zodiac predictions, astrology 2025, Aries predictions, Taurus predictions, Gemini predictions, Cancer predictions, Leo predictions, Virgo predictions, Libra predictions, Scorpio predictions, Sagittarius predictions, Capricorn predictions, Aquarius predictions, Pisces predictions",
+   "meta_description": "Discover your 2025 Zodiac Forecast with cosmic surprises and opportunities! Learn how Saturn and Jupiter's transits will affect your sign in terms of career, relationships, finances, and personal growth. Find out what 2025 has in store for Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces.",
+   "author": "Kritika Raje",
+   "photos": [
+    {
+     "photo_id": 151,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Virgo_2025_.png",
+     "title": "Virgo",
+     "description": "<p> </p>",
+     "input_order": 5,
+     "type": "story"
+    },
+    {
+     "photo_id": 152,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Taurus_2025.png",
+     "title": "Taurus",
+     "description": "<p> </p>",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 153,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Cancer_2025_.png",
+     "title": "Cancer",
+     "description": "<p> </p>",
+     "input_order": 3,
+     "type": "story"
+    },
+    {
+     "photo_id": 154,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Aries_2025_.png",
+     "title": "Aries",
+     "description": "<p> </p>",
+     "input_order": 0,
+     "type": "story"
+    },
+    {
+     "photo_id": 155,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Gemini_2025.png",
+     "title": "Gemini",
+     "description": "<p> </p>",
+     "input_order": 2,
+     "type": "story"
+    },
+    {
+     "photo_id": 156,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Leo_2025_.png",
+     "title": "Leo",
+     "description": "<p> </p>",
+     "input_order": 4,
+     "type": "story"
+    },
+    {
+     "photo_id": 157,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/Aquarius_2025.png",
+     "title": "Aquarius",
+     "description": "<p> </p>",
+     "input_order": 10,
+     "type": "story"
+    },
+    {
+     "photo_id": 158,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Picses_2025_.png",
+     "title": "Picses",
+     "description": "<p> </p>",
+     "input_order": 11,
+     "type": "story"
+    },
+    {
+     "photo_id": 159,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Capricorn_2025_.png",
+     "title": "Capricorn",
+     "description": "<p> </p>",
+     "input_order": 9,
+     "type": "story"
+    },
+    {
+     "photo_id": 160,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Scorpion_2025_.png",
+     "title": "Scorpion",
+     "description": "<p> </p>",
+     "input_order": 7,
+     "type": "story"
+    },
+    {
+     "photo_id": 161,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Sagittaius_2025_.png",
+     "title": "Sagittarius",
+     "description": "<p> </p>",
+     "input_order": 8,
+     "type": "story"
+    },
+    {
+     "photo_id": 162,
+     "gallery_id": 42,
+     "photo": "https://talktoguruji.com/upload/file/WS_Libra_2025_.png",
+     "title": "Libra",
+     "description": "<p> </p>",
+     "input_order": 6,
+     "type": "story"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "title": "Debt Relief Remedies for 2025",
+   "status": "publish",
+   "user_id": null,
+   "collection_id": null,
+   "created_at": "2025-02-24T12:24:06.000Z",
+   "img_url": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_11.png",
+   "description": null,
+   "slug": "Debt-relief-remedies-2025",
+   "meta_title": "Effective Debt Relief Remedies with Astrological Tips",
+   "meta_keyword": "debt relief, budgeting, debt consolidation, debt snowball method, credit counseling, astrological tips, financial freedom",
+   "meta_description": "Discover effective debt relief remedies with astrological tips to achieve financial freedom. Learn about budgeting, debt consolidation, the debt snowball method, and credit counseling combined with astrological practices to manage and reduce your debt.",
+   "author": "Kritika Raje",
+   "photos": [
+    {
+     "photo_id": 147,
+     "gallery_id": 41,
+     "photo": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_31shiv.png",
+     "title": "Remedy 3",
+     "description": "<p>Offering a red flower with water on the Shivling every morning is believed to please Lord Shiva and help resolve debt-related problems.&nbsp;</p>",
+     "input_order": 2,
+     "type": "story"
+    },
+    {
+     "photo_id": 148,
+     "gallery_id": 41,
+     "photo": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_33sun.png",
+     "title": "Remedy 1",
+     "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worship Lord Sun by offering water to the rising sun daily and chanting \"Om Aditya Namah</span></p>",
+     "input_order": 0,
+     "type": "story"
+    },
+    {
+     "photo_id": 149,
+     "gallery_id": 41,
+     "photo": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_55_Vishnu.png",
+     "title": "Remedy 2",
+     "description": "<p>Planting Banana trees in a Lord Vishnu temple, watering them daily, and donating their fruits helps resolve debt issues.&nbsp;</p>",
+     "input_order": 1,
+     "type": "story"
+    },
+    {
+     "photo_id": 150,
+     "gallery_id": 41,
+     "photo": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_44hanuman.png",
+     "title": "Remedy 4",
+     "description": "<p>Monday is considered a good day to take or repay loans, while Tuesday is ideal for repaying old debts. <span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Recite Hanuman Chalisa every day for 40 days, 108 times a day.</span></p>",
+     "input_order": 3,
+     "type": "story"
+    }
+   ]
+  }
+ ]
+}

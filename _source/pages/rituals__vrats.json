@@ -1,0 +1,20 @@
+{
+ "path": "/rituals/vrats",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/rituals/[[...slug]]",
+ "pageProps": {
+  "festivalData": {
+   "festivalData": [],
+   "vratData": [],
+   "aartiData": [],
+   "bhajanData": [],
+   "singleFestival": null,
+   "singleVrat": null,
+   "singleAarti": null,
+   "singleBhajan": null,
+   "year": "2026"
+  }
+ }
+}

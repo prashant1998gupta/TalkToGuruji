@@ -1,0 +1,168 @@
+{
+ "path": "/rituals/aarti",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/rituals/[[...slug]]",
+ "pageProps": {
+  "festivalData": {
+   "festivalData": [],
+   "vratData": [],
+   "aartiData": [
+    {
+     "title": "Shree Narsingh Bhagwan Ji ki Aarti  ( श्री नरसिंह भगवान जी की आरती )",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0);\">Worshiping Narsingh Bhagwan is believed to remove fear and protect devotees from adversities. Known as the fierce form of Lord Vishnu, Narsingh Bhagwan symbolizes the victory of good over evil and the protection of righteousness. Praying to him brings courage, peace, and the strength to overcome challenges. His blessings help devotees attain spiritual growth, mental resilience, and freedom from negativity.</span></p>",
+     "slug": "narsimha-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Narsingh_Bhagwaan_ji_ki_Arti_(1).webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Govardhan Maharaj Ji Ki Aarti (श्री गोवर्धन महाराज जी की आरती )",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Govardhan Bhagwan during Govardhan Puja symbolizes devotion to nature and gratitude for its blessings. This sacred ritual commemorates Lord Krishna's lifting of Govardhan Hill, emphasizing the protection of life and harmony with nature. Devotees believe it brings prosperity, peace, and a shield against hardships. By performing Govardhan Puja, one invites positivity, strengthens family bonds, and connects deeply with divine grace, fostering spiritual growth and well-being.</span></p>",
+     "slug": "govardhan-puja-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Goverdhan_ji_ki_Arti_(1).webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Chitragupt Ji Ki Aarti (श्री चित्रगुप्त जी की आरती)",
+     "small_description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worshipping Lord Chitragupt, the divine record-keeper of human deeds, instills a sense of righteousness and accountability. He is revered for maintaining cosmic balance through justice and truth. Devotees believe that offering prayers to Lord Chitragupt brings clarity, spiritual growth, and liberation from past karmic cycles. His blessings ensure harmony, prosperity, and fulfillment of desires, while fostering a disciplined and ethical life path. Worship also signifies seeking forgiveness and guidance for righteous living.</span></p>",
+     "slug": "chitragupt-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Chitragupt_bhagwaan_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Mata Lakshmi Ji Ki Aarti (माता लक्ष्मी जी की आरती  )",
+     "small_description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worshipping Lakshmi Mata, the goddess of wealth, prosperity, and fortune, brings immense blessings and positivity into one’s life. Her devotion bestows material abundance, spiritual growth, and a harmonious environment. By honoring her through prayers and rituals, devotees invite success, remove financial obstacles, and attain inner peace. Her grace fosters gratitude, kindness, and the wisdom to use resources wisely, creating a path of holistic prosperity and fulfillment.</span></p>",
+     "slug": "laxmi-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Laxmi_ji_ki_Arti_(1).webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Mata Saraswati Ji Ki aarti (माता सरस्वती जी की आरती )",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Goddess Saraswati, the embodiment of wisdom, knowledge, and arts, brings enlightenment and spiritual growth. By dedicating prayers to her, devotees seek clarity of mind, success in learning, and artistic proficiency. Her blessings help overcome ignorance and enhance one's intellectual capabilities. Worshiping Maa Saraswati instills creativity, wisdom, and a deep connection with divine knowledge, guiding individuals on the path of truth and understanding. Her grace transforms lives by removing obstacles to learning and intellectual development.</span></p>",
+     "slug": "maa-saraswati-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Mata_Saraswati_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Mata Vaishno Devi Ji Ki Aarti (माता वैष्णों देवी जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Vaishno Mata, the divine embodiment of strength, grace, and compassion, brings divine blessings, protection, and fulfillment of desires. Her devotees experience inner peace, spiritual growth, and the removal of obstacles in life. By offering sincere prayers and devotion, one can seek her grace for prosperity, health, and success. Vaishno Mata’s blessings lead to a path of righteousness and eternal bliss, guiding her followers through life's challenges with unwavering faith.</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">﻿Worshipping Vaishno Mata brings divine blessings, protection, and the fulfillment of desires. Devotees experience peace, spiritual growth, and success through sincere prayers, seeking her grace for prosperity and overcoming obstacles.</span></p>",
+     "slug": "mata-vaishno-devi-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Mata_Vaishno_Devi_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Mata Ahoi  ji ki Aarti (माता अहोई जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Ahoi Mata is a powerful way to seek blessings for the well-being of children and the prosperity of the family. Devotees honor her for her divine grace, which brings protection, peace, and success. Ahoi Mata is believed to bestow happiness, wealth, and the fulfillment of desires, removing obstacles and ensuring a harmonious life. Prayers to her are said to bring spiritual and material abundance, with her blessings filling the home with joy and positivity.</span></p>",
+     "slug": "ahoi-mata-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Ahoi_Mata_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "माता पार्वती जी कीआरती (Mata Parvati)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Mata Parvati, the divine mother and consort of Lord Shiva, brings divine blessings and protection. As the goddess of fertility, power, and love, she nurtures her devotees, providing them with strength, wisdom, and spiritual growth. Devotees who offer sincere prayers to her are blessed with happiness, prosperity, and the removal of obstacles. Mata Parvati’s blessings also help in attaining peace of mind, resolving difficulties, and ensuring harmony in relationships. Through her grace, devotees can experience spiritual fulfillment and divine contentment.</span></p>",
+     "slug": "maa-parvati-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Mata_Parvati_Ji.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Khatu Shyam Ji Ki Aarti (श्री खाटू श्याम जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Khatu Shyam brings peace, fulfillment, and spiritual blessings. Devotees believe that chanting His name and offering sincere prayers can alleviate suffering and grant desires. Khatu Shyam, known for his divine presence in Khatu Dham, blesses his followers with strength, courage, and prosperity. His worship fosters positivity, removes obstacles, and enhances devotion, helping individuals lead a life filled with harmony and divine grace.</span></p>",
+     "slug": "khatu-shyam-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Khatu_Shyam__ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shri Shani Dev Ji ki Aarti (श्री शनिदेव  जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Shri Shani Dev is believed to bring peace and prosperity by alleviating the negative effects of Saturn in one's life. Devotees seek his blessings for justice, discipline, and protection from misfortunes. Offering prayers to Shani Dev can help transform difficulties into opportunities for spiritual growth, ensuring success in both personal and professional spheres. His blessings also lead to mental peace, improved health, and overall well-being.</span></p>",
+     "slug": "shani-dev-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Shani_Dev_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Purushottam Dev Ji Ki  Aarti (श्री पुरुषोत्तम देव जी की आरती) ",
+     "small_description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worshipping Shri Surya Bhagwan brings immense benefits, including health, vitality, and success. As the source of life and energy, Surya Dev blesses his devotees with strength, knowledge, and wisdom. Regular prayers and offerings to the Sun God are believed to purify the mind and body, dispel darkness, and bring positivity into one's life. Devotees seek his divine grace for protection from obstacles, prosperity, and spiritual growth. The sun's rays are considered healing, and worshipping Surya Ji fosters overall well-being and abundance.</span></p>",
+     "slug": "shri-surya-dev-bhagwan-ji-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Purushottam_Dev_Ji.png",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Satyanarayana Ji Ki Aarti  (श्री सत्यनारायण जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Shri Satyanarayan Ji is believed to bring peace, prosperity, and fulfillment of desires. By offering devotion through his aarti, devotees seek blessings for happiness, health, and wealth. Regular worship of Satyanarayan helps eliminate hardships, purifies the mind, and brings divine protection, while fostering spiritual growth and tranquility in life. His grace is known to bless devotees with success and remove obstacles, making it a significant ritual for many seeking positivity and progress.</span></p>",
+     "slug": "shree-sayanarayan-ji-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Satyanarayan_Bhagwaan_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Shiv Ji Ki Aarti (श्री शिवजी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Lord Shiv through the Shiv Ji Aarti invokes divine blessings and inner peace. Lord Shiv, the destroyer of evil and protector of the universe, is believed to bring spiritual enlightenment and strength. Chanting his praises with devotion helps overcome obstacles, alleviates suffering, and purifies the mind. His grace fosters harmony, wisdom, and a sense of balance, guiding devotees towards spiritual liberation. Shiv Ji's worship is a path to transcendence, offering protection, prosperity, and fulfillment of desires.</span></p>",
+     "slug": "shiv-ji-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Shiv_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Ramayan ji ki Arti ( श्री रामायण जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Shri Ramayan Ji through this Aarti is a way to honor the divine wisdom and virtues of Lord Ram and his teachings. Chanting this Aarti brings peace, clarity, and spiritual growth. It is believed to cleanse the mind of negativity, promote righteousness, and strengthen devotion to the divine. The Ramayan is revered as a guide for life, and through its worship, devotees seek liberation from the cycles of birth and death, while experiencing blessings of prosperity, wisdom, and inner harmony.</span></p>",
+     "slug": "shri-ramayan-ji",
+     "img_url": "https://talktoguruji.com/upload/file/Shri_Ramayan_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Ram Stuti (श्री राम स्तुति)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshiping Lord Ram, the epitome of virtue, righteousness, and compassion, brings peace and spiritual growth. Chanting his Aarti helps devotees connect with his divine qualities, fostering inner strength and devotion. Lord Ram’s blessings provide protection from difficulties, promote harmony, and guide individuals toward a righteous path. His devotion to truth and justice inspires followers to overcome life's challenges with grace. By surrendering to Lord Ram, one experiences divine grace, mental clarity, and an unwavering sense of purpose. Worshipping Ram fosters a deep sense of love, faith, and devotion.</span></p>",
+     "slug": "ram-bhagwan-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Shri_Ram_Channdra__ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Hanuman Ji Ki Aarti (श्री हनुमान जी की आरती)",
+     "small_description": "<p><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worshipping Lord Hanuman, the symbol of strength, devotion, and courage, brings immense blessings and protection to His devotees. Chanting the </em><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\"><em>\"Hanuman Aarti\"</em></strong><em style=\"background-color: transparent; color: rgb(0, 0, 0);\"> invokes His divine presence, which removes obstacles, wards off evil, and heals physical and mental ailments. As the eternal servant of Lord Rama, Hanuman is believed to bestow courage, vitality, and unwavering faith in the face of challenges. Devotees experience enhanced spiritual growth, inner peace, and divine grace. Regular worship of Hanuman fosters resilience, strength, and the ability to overcome life's difficulties with determination and devotion.</em></p>",
+     "slug": "hanuman-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Hanuman_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Banke Bihari Ji Ki Aarti (श्री बांके बिहारी जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Shri Banke Bihari, a beloved form of Lord Krishna, brings immense joy, love, and spiritual connection into devotees' lives. Known for His playful and compassionate nature, Banke Bihari showers His blessings, removing obstacles and filling hearts with peace and devotion. Singing the </span><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">\"Shri Banke Bihari Ki Aarti\"</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> invokes divine grace, purifies the mind, and strengthens the bond with the divine. Devotees feel uplifted, experiencing blissful moments of harmony and a deeper understanding of life's spiritual essence. Worshipping Him fosters gratitude, positivity, and eternal happiness.</span></p>",
+     "slug": "shree-banke-bihari-teri-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Banke_Bihari_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Kunj Bihari Ji  Ki Arti (श्री कुंजबिहारी जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Kunjbihari, Lord Krishna, fills devotees' hearts with love, joy, and divine peace. Known as the epitome of grace and compassion, He removes sorrows and blesses with spiritual enlightenment. Singing the </span><strong style=\"color: rgb(0, 0, 0); background-color: transparent;\">\"Aarti Kunj Bihari Ki\"</strong><span style=\"color: rgb(0, 0, 0); background-color: transparent;\"> invokes His blessings for harmony, prosperity, and liberation from worldly struggles. His divine presence inspires devotion and strengthens faith, fostering a deep connection with the eternal truth. Devotees experience bliss, positivity, and the guidance needed to lead a righteous and fulfilling life.</span></p>",
+     "slug": "aarti-kunj-bihari-ji-ki",
+     "img_url": "https://talktoguruji.com/upload/file/Kunj_Bihari_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Gajbadan Vinayak Ji Ki Aarti (श्री गजबदन विनायक जी की आरती)",
+     "small_description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Worshipping Gajbadan Vinayak, the beloved form of Lord Ganesha, brings wisdom, prosperity, and the removal of obstacles. As the bestower of knowledge and divine grace, He guides devotees toward success and spiritual fulfillment. Singing the \"Gajbadan Vinayak Ki Aarti\" invokes His blessings for a harmonious life filled with peace and positivity. Known as Vighnaharta, He eliminates hardships and grants strength to overcome challenges. Devotees experience inner calm, enhanced intellect, and the courage to pursue their goals with determination.﻿</span></p>",
+     "slug": "gajbandan-vinayak-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Gajbadan_vinayak_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Vishnu Ji Ki Aarti- Om Jai Jagdish Hare (ओम जय जगदीश हरे)",
+     "small_description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Worshipping Jagadish Bhagwan, the supreme lord of the universe, symbolizes devotion, faith, and surrender to the divine. Chanting the revered </span><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">\"Om Jai Jagadish Hare\"</strong><span style=\"background-color: transparent; color: rgb(0, 0, 0);\"> Aarti fills devotees with peace, positivity, and spiritual strength. It is believed that through sincere prayers, Jagadish Bhagwan alleviates the hardships of His devotees, blesses them with prosperity, and fosters inner harmony. Worshiping Him cultivates a deep sense of gratitude and detachment from material worries, paving the way for spiritual growth and divine blessings. By connecting with Jagadish Bhagwan, one experiences divine protection, guidance, and eternal bliss.</span></p>",
+     "slug": "vishnu-ji-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/_Vishnu_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    },
+    {
+     "title": "Shree Ganesh ji ki Aarti (श्री गणेश जी की आरती)",
+     "small_description": "<p>Worshipping Ganesh Bhagwan, the remover of obstacles and harbinger of wisdom, brings immense blessings to devotees. Known as Vighnaharta, Lord Ganesha clears life's hurdles and bestows prosperity, knowledge, and success. Offering prayers to Him invokes positive energy, spiritual strength, and inner peace. His blessings nurture creativity, focus, and determination, helping devotees achieve their goals. Ganesh Puja also symbolizes the start of auspicious endeavors, ensuring a path filled with harmony, protection, and divine grace.</p>",
+     "slug": "shree-ganesh-ji-ki-aarti",
+     "img_url": "https://talktoguruji.com/upload/file/Ganesh_ji_ki_Arti.webp",
+     "a_type": "aarti"
+    }
+   ],
+   "bhajanData": [],
+   "singleFestival": null,
+   "singleVrat": null,
+   "singleAarti": null,
+   "singleBhajan": null,
+   "year": "2026"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 21,
+   "collection_name": "News",
+   "created_at": "2025-02-04T05:39:26.000Z",
+   "type": "news",
+   "img_url": "News",
+   "title": "News",
+   "status": "publish"
+  },
+  {
+   "id": 23,
+   "collection_name": "Numerology",
+   "created_at": "2025-02-19T06:53:00.000Z",
+   "type": "video",
+   "img_url": "Numerology",
+   "title": "Numerology",
+   "status": "publish"
+  },
+  {
+   "id": 24,
+   "collection_name": "Horoscope Astrology",
+   "created_at": "2025-02-24T10:34:00.000Z",
+   "type": "video",
+   "img_url": "Horoscope Astrology",
+   "title": "Horoscope Astrology",
+   "status": "publish"
+  },
+  {
+   "id": 25,
+   "collection_name": "Astrology",
+   "created_at": "2025-02-24T10:37:29.000Z",
+   "type": "video",
+   "img_url": "Astrology",
+   "title": "Astrology",
+   "status": "publish"
+  }
+ ]
+}

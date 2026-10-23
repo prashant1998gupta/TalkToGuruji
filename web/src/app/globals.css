@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+/* ---------- Design tokens: "celestial saffron" ---------- */
+@theme {
+  --font-display: var(--font-fraunces), ui-serif, Georgia, serif;
+  --font-sans: var(--font-manrope), ui-sans-serif, system-ui, sans-serif;
+
+  --color-night-950: #0b0819;
+  --color-night-900: #120e24;
+  --color-night-800: #1c1640;
+  --color-night-700: #2a2160;
+  --color-night-600: #3b2f86;
+
+  --color-saffron-50: #fff5ec;
+  --color-saffron-100: #ffe6cf;
+  --color-saffron-200: #ffc999;
+  --color-saffron-300: #ffa95f;
+  --color-saffron-400: #ff8f36;
+  --color-saffron-500: #f5731a;
+  --color-saffron-600: #d95a0b;
+  --color-saffron-700: #b3450d;
+
+  --color-gold-300: #f6d58a;
+  --color-gold-400: #f2c25b;
+  --color-gold-500: #e3a72f;
+
+  --color-cream-50: #fffdf9;
+  --color-cream-100: #fbf6ee;
+  --color-cream-200: #f4ecdf;
+  --color-cream-300: #e9ddc9;
+
+  --color-ink: #1d1a2b;
+  --color-muted: #6c6782;
+  --color-line: #ece5d8;
+
+  --color-leaf: #18a058;
+  --color-rose: #e0475b;
+
+  --radius-xl: 1rem;
+  --radius-2xl: 1.25rem;
+  --radius-3xl: 1.75rem;
+
+  --shadow-soft: 0 1px 2px rgb(29 26 43 / 0.04), 0 8px 24px -12px rgb(29 26 43 / 0.12);
+  --shadow-lift: 0 2px 4px rgb(29 26 43 / 0.05), 0 18px 40px -18px rgb(29 26 43 / 0.28);
+  --shadow-glow: 0 0 0 1px rgb(242 194 91 / 0.25), 0 10px 40px -10px rgb(245 115 26 / 0.45);
+
+  --animate-float: float 7s ease-in-out infinite;
+  --animate-twinkle: twinkle 3.5s ease-in-out infinite;
+  --animate-spin-slow: spin 60s linear infinite;
+  --animate-pulse-ring: pulse-ring 1.8s ease-out infinite;
+  --animate-fade-up: fade-up 0.6s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+@keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-10px); } }
+@keyframes twinkle { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+@keyframes pulse-ring { 0% { box-shadow: 0 0 0 0 rgb(24 160 88 / 0.5); } 100% { box-shadow: 0 0 0 10px rgb(24 160 88 / 0); } }
+@keyframes fade-up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+:root {
+  color-scheme: light;
+}
+
+html { scroll-behavior: smooth; -webkit-tap-highlight-color: transparent; }
+
+body {
+  background: var(--color-cream-100);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection { background: var(--color-saffron-200); color: var(--color-night-900); }
+
+:focus-visible { outline: 2px solid var(--color-saffron-500); outline-offset: 2px; border-radius: 6px; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+}
+
+/* ---------- Reusable pieces ---------- */
+@utility container-x { @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8; }
+
+@utility btn { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 text-sm font-semibold transition duration-200 select-none disabled:pointer-events-none disabled:opacity-50; }
+@utility btn-primary { @apply btn bg-saffron-500 text-white shadow-[0_8px_20px_-8px_rgb(245_115_26/0.7)] hover:bg-saffron-600 active:scale-[0.98]; }
+@utility btn-dark { @apply btn bg-night-900 text-white hover:bg-night-700 active:scale-[0.98]; }
+@utility btn-ghost { @apply btn border border-line bg-white text-ink hover:border-saffron-300 hover:text-saffron-700; }
+@utility btn-gold { @apply btn bg-gradient-to-r from-gold-400 to-saffron-400 text-night-900 hover:brightness-105 active:scale-[0.98]; }
+@utility btn-sm { @apply px-3.5 py-1.5 text-xs; }
+@utility btn-lg { @apply px-7 py-3.5 text-base; }
+
+@utility card { @apply rounded-2xl border border-line bg-white shadow-soft; }
+@utility card-hover { @apply card transition duration-300 hover:-translate-y-0.5 hover:shadow-lift hover:border-saffron-200; }
+
+@utility chip { @apply inline-flex items-center gap-1 rounded-full bg-cream-200 px-2.5 py-1 text-xs font-medium text-ink/80; }
+
+@utility input { @apply w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-sm text-ink placeholder:text-muted/70 outline-none transition focus:border-saffron-400 focus:ring-4 focus:ring-saffron-100; }
+@utility label { @apply mb-1.5 block text-xs font-semibold uppercase tracking-wide text-muted; }
+
+@utility eyebrow { @apply inline-flex items-center gap-2 text-xs font-bold uppercase tracking-[0.2em] text-saffron-600; }
+@utility h-display { @apply font-display font-semibold tracking-tight text-balance; }
+@utility section { @apply py-14 sm:py-20; }
+
+@utility night { @apply bg-night-900 text-white; background-image: radial-gradient(1200px 500px at 80% -10%, rgb(75 59 203 / 0.35), transparent 60%), radial-gradient(800px 400px at 0% 110%, rgb(245 115 26 / 0.18), transparent 60%); }
+
+@utility gold-rule { @apply h-px w-full; background: linear-gradient(90deg, transparent, var(--color-gold-400), transparent); }
+
+@utility no-scrollbar { scrollbar-width: none; &::-webkit-scrollbar { display: none; } }
+
+
+@layer components {
+  /* Long-form article HTML imported from the old site */
+  .prose-guru { @apply text-[15.5px] leading-relaxed text-ink/90; }
+  .prose-guru h2 { @apply mt-9 mb-3 font-display text-2xl font-semibold text-night-900; }
+  .prose-guru h3 { @apply mt-7 mb-2 font-display text-xl font-semibold text-night-900; }
+  .prose-guru h4, .prose-guru h5, .prose-guru h6 { @apply mt-6 mb-2 text-base font-bold text-night-900; }
+  .prose-guru p { @apply my-3.5; }
+  .prose-guru a { @apply font-medium text-saffron-700 underline decoration-saffron-300 underline-offset-2; }
+  .prose-guru ul { @apply my-4 list-disc space-y-1.5 pl-6 marker:text-saffron-500; }
+  .prose-guru ol { @apply my-4 list-decimal space-y-1.5 pl-6 marker:text-saffron-600; }
+  .prose-guru strong { @apply font-semibold text-night-900; }
+  .prose-guru img { @apply my-6 w-full rounded-2xl; }
+  .prose-guru blockquote { @apply my-6 border-l-4 border-gold-400 bg-cream-200/60 py-3 pr-4 pl-5 italic; }
+  .prose-guru table { @apply my-6 w-full overflow-hidden rounded-xl border border-line text-sm; }
+  .prose-guru td, .prose-guru th { @apply border border-line px-3 py-2 align-top; }
+  .prose-guru tr:nth-child(odd) td { @apply bg-cream-100; }
+  .prose-guru iframe { @apply aspect-video h-auto w-full rounded-2xl; }
+}

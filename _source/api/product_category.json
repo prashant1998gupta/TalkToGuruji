@@ -1,0 +1,41 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 1,
+   "name": "pendents",
+   "description": "<p>(Emerald) Panna stone benefits:&nbsp;</p><ul><li>The Panna stone is revered for having the power to make the keeper more creative and help him/her gain innovative ideas.&nbsp;</li><li>The green hues of the emerald or the Panna stone can help the person become self aware and confident</li><li>The emerald stone or the Panna stone can also give you the financial sability that you have been craving for.&nbsp;</li></ul>",
+   "image_url": "https://talktoguruji.com/upload/file/necklace.png",
+   "status": "publish",
+   "created_at": "2024-11-12T00:00:00.000Z",
+   "slug": "spiritual-pendents"
+  },
+  {
+   "id": 4,
+   "name": "Bracelets",
+   "description": "<p><strong>Red Coral Stone Benefits</strong></p><ul><li>The red coral stone blesses you and shields you from negativity and bad omens.&nbsp;</li><li>This stone will help the wearer avoid accidents by enabling them to get better luck.&nbsp;</li><li>The laal moonga stone increases the influence of Mars and makes you a more desirable human being.</li></ul>",
+   "image_url": "https://talktoguruji.com/upload/file/bracelet.png",
+   "status": "publish",
+   "created_at": "2024-11-12T00:00:00.000Z",
+   "slug": "spiritual-bracelets"
+  },
+  {
+   "id": 5,
+   "name": "gemstones",
+   "description": "<p>(yellow sapphire) Pukhraj stone benefits:&nbsp;&nbsp;</p><ul><li>The majestic powers of the yellow sapphire can help you fight disorders related to the mouth, liver, and stomach.&nbsp;</li><li>Pukhraj stone can help the keeper attain chakra balance that develops physical vitality and growth.&nbsp;</li><li>The yellow sapphire influences the powers of Jupiter, thus giving you the opportunity to grow financially.&nbsp;</li></ul>",
+   "image_url": "https://talktoguruji.com/upload/file/gemstones.png",
+   "status": "publish",
+   "created_at": "2024-11-12T00:00:00.000Z",
+   "slug": "spiritual-gemstones"
+  },
+  {
+   "id": 6,
+   "name": "Rudraksha",
+   "description": "<p>\\u003Cp\\u003E\\u003Cstrong\\u003ERudraksha Benefits:&nbsp;\\u003C/strong\\u003E\\u003C/p\\u003E\\u003Cul\\u003E\\u003Cli\\u003ERudraksha is known for its powerful spiritual and health benefits, providing mental clarity and peace of mind for the wearer.&nbsp;\\u003C/li\\u003E\\u003Cli\\u003EIt enhances the power of concentration and meditation, making it ideal for those seeking spiritual growth and enlightenment.&nbsp;\\u003C/li\\u003E\\u003Cli\\u003ERudraksha is also believed to protect against negative energies, ensuring positive vibrations and promoting a sense of well-being.&nbsp;\\u003C/li\\u003E\\u003C/ul\\u003E</p>",
+   "image_url": "https://talktoguruji.com/upload/file/rudraksh.png",
+   "status": "publish",
+   "created_at": "2024-11-12T00:00:00.000Z",
+   "slug": "spiritual-rudraksha-bead"
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "path": "/rituals/bhajan",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/rituals/[[...slug]]",
+ "pageProps": {
+  "festivalData": {
+   "festivalData": [],
+   "vratData": [],
+   "aartiData": [],
+   "bhajanData": [
+    {
+     "title": "Ram Bhajan",
+     "small_description": "<p><span style=\"background-color: transparent;\">A </span><strong style=\"background-color: transparent;\">Ram Bhajan</strong><span style=\"background-color: transparent;\"> is a divine way to express devotion and praise the glory of Lord Shri Ram. It fills the hearts of devotees with love, faith, and deep spiritual connection. This bhajan inspires us to surrender to the sacred feet of Lord Ram, leading us towards peace, happiness, and spiritual enlightenment.</span></p><p><span style=\"background-color: transparent;\">The melodious lyrics of this bhajan glorify the compassion, kindness, and grace of Shri Ram. Chanting His name illuminates our soul, dispels darkness, and brings positivity into our lives. By immersing ourselves in the love of Siya Ram, we experience boundless joy and find true solace in His divine presence.</span></p><p><span style=\"background-color: transparent;\">Let this bhajan be a guiding light in your spiritual journey, awakening devotion and inner peace. </span><strong style=\"background-color: transparent;\">Jai Shri Ram!</strong><span style=\"background-color: transparent;\"> ?</span></p><p><br></p>",
+     "slug": "ram-bhajan",
+     "img_url": "https://talktoguruji.com/upload/file/Ram_Bhajan.png",
+     "a_type": "bhajan"
+    }
+   ],
+   "singleFestival": null,
+   "singleVrat": null,
+   "singleAarti": null,
+   "singleBhajan": null,
+   "year": "2026"
+  }
+ }
+}

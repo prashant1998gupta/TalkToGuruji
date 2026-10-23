@@ -1,0 +1,13 @@
+{
+ "path": "/astrology-services/kundli-matching",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/astrology-services/[[...slug]]",
+ "pageProps": {
+  "astrologyServices": {
+   "allPooja": null,
+   "singlePooja": null
+  }
+ }
+}

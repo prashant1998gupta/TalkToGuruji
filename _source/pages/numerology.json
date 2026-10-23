@@ -1,0 +1,77 @@
+{
+ "path": "/numerology",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/numerology/[[...slug]]",
+ "pageProps": {
+  "numerology": {
+   "allData": [
+    {
+     "id": 1,
+     "title": "Insights on Numerology Number 1: Traits, Meaning or More",
+     "slug": "insights-on-numerology-number-1",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_1.webp",
+     "status": "publish"
+    },
+    {
+     "id": 2,
+     "title": "Insights on Numerology Number 2: Traits, Meaning and More",
+     "slug": "Numerology-number-2",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_2.webp",
+     "status": "publish"
+    },
+    {
+     "id": 5,
+     "title": "Insights on Numerology Number 3 : Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-3",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_3.webp",
+     "status": "publish"
+    },
+    {
+     "id": 6,
+     "title": "Insights on Numerology Number 4 : Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-4",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_4.webp",
+     "status": "publish"
+    },
+    {
+     "id": 7,
+     "title": "Insights on Numerology Number 5: Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-5",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_511.webp",
+     "status": "publish"
+    },
+    {
+     "id": 8,
+     "title": "Insights on Numerology Number 6: Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-6",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_6.webp",
+     "status": "publish"
+    },
+    {
+     "id": 9,
+     "title": "Insights on Numerology Number 7: Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-7",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_7.webp",
+     "status": "publish"
+    },
+    {
+     "id": 10,
+     "title": "Insights on Numerology Number 8: Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-8",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_8.webp",
+     "status": "publish"
+    },
+    {
+     "id": 11,
+     "title": "Insights on Numerology Number 9: Traits, Meaning and More",
+     "slug": "Insights-on-numerology-number-9",
+     "img_url": "https://talktoguruji.com/upload/file/Numerology_9.webp",
+     "status": "publish"
+    }
+   ],
+   "singleData": null
+  }
+ }
+}

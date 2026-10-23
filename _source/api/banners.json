@@ -1,0 +1,53 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 13,
+   "img_url": "https://talktoguruji.com/upload/file/banner-home-2025-05-28-240pm.png",
+   "created_at": "2025-05-28T08:38:16.000Z",
+   "page_url": "https://talktoguruji.com/blogs/wearing-the-wrong-gemstone-can-harm-you",
+   "status": "publish",
+   "page_name": null
+  },
+  {
+   "id": 11,
+   "img_url": "https://talktoguruji.com/upload/file/Screenshot 2025-05-28 at 1.42.02â¯PM.png",
+   "created_at": "2025-05-28T08:12:16.000Z",
+   "page_url": "https://talktoguruji.com/blogs/wearing-the-wrong-gemstone-can-harm-you",
+   "status": "draft",
+   "page_name": null
+  },
+  {
+   "id": 8,
+   "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-02-28_at_20.45.43.webp",
+   "created_at": "2025-03-01T02:10:32.000Z",
+   "page_url": "https://talktoguruji.com/blogs",
+   "status": "draft",
+   "page_name": null
+  },
+  {
+   "id": 7,
+   "img_url": "https://talktoguruji.com/upload/file/Personalized_Pooja.webp",
+   "created_at": "2025-02-28T14:02:41.000Z",
+   "page_url": "https://talktoguruji.com/astrology-services/online-pooja-booking",
+   "status": "publish",
+   "page_name": null
+  },
+  {
+   "id": 6,
+   "img_url": "https://talktoguruji.com/upload/file/Kundli_Banner.webp",
+   "created_at": "2025-02-13T20:03:46.000Z",
+   "page_url": "https://talktoguruji.com/astrology-services/free-kundli",
+   "status": "publish",
+   "page_name": null
+  },
+  {
+   "id": 5,
+   "img_url": "https://talktoguruji.com/upload/file/Horoscope_Banner-3.webp",
+   "created_at": "2025-02-13T19:57:15.000Z",
+   "page_url": "https://talktoguruji.com/horoscope/daily",
+   "status": "publish",
+   "page_name": null
+  }
+ ]
+}

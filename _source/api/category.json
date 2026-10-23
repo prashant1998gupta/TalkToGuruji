@@ -1,0 +1,86 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 1,
+   "name": "Zodiac Sign",
+   "description": "<p>Zodiac Signs</p>",
+   "type": "blog",
+   "created_at": "2025-05-19T07:09:49.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 2,
+   "name": "Remedies",
+   "description": "Remedies about your health and future",
+   "type": "blog",
+   "created_at": "2025-02-03T11:33:48.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 3,
+   "name": "Celebrities",
+   "description": "<p>Celebrities</p>",
+   "type": "blog",
+   "created_at": "2025-04-23T12:13:05.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 4,
+   "name": "Trendings",
+   "description": "<p>Celebrities</p>",
+   "type": "blog",
+   "created_at": "2025-02-03T12:14:49.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 5,
+   "name": "Numerology",
+   "description": "Numerology",
+   "type": "blog",
+   "created_at": "2025-02-03T11:33:48.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 6,
+   "name": " Vastu Shastra",
+   "description": "Vastu Shastra",
+   "type": "vastu",
+   "created_at": "2025-02-03T11:33:48.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 8,
+   "name": "Astrology",
+   "description": "<p>Deep insights about the mystical astrology world secrets connected with everyday life</p>",
+   "type": "blog",
+   "created_at": "2025-02-05T11:00:47.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 9,
+   "name": "Tarot Card",
+   "description": "<p>All the detailed blogs about \"Tarot Card Reading\".</p>",
+   "type": "blog",
+   "created_at": "2025-05-18T10:38:29.000Z",
+   "updated_at": null,
+   "status": "publish"
+  },
+  {
+   "id": 14,
+   "name": "Vastu",
+   "description": "<p>Vastu</p>",
+   "type": "blog",
+   "created_at": "2025-05-22T08:21:54.000Z",
+   "updated_at": null,
+   "status": "publish"
+  }
+ ]
+}

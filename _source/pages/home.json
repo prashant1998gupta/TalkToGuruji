@@ -1,0 +1,1663 @@
+{
+ "path": "/",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/",
+ "pageProps": {
+  "homeData": {
+   "bannerData": [
+    {
+     "img_url": "https://talktoguruji.com/upload/file/banner-home-2025-05-28-240pm.png",
+     "page_url": "https://talktoguruji.com/blogs/wearing-the-wrong-gemstone-can-harm-you",
+     "status": "publish"
+    },
+    {
+     "img_url": "https://talktoguruji.com/upload/file/Screenshot 2025-05-28 at 1.42.02â¯PM.png",
+     "page_url": "https://talktoguruji.com/blogs/wearing-the-wrong-gemstone-can-harm-you",
+     "status": "draft"
+    },
+    {
+     "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-02-28_at_20.45.43.webp",
+     "page_url": "https://talktoguruji.com/blogs",
+     "status": "draft"
+    },
+    {
+     "img_url": "https://talktoguruji.com/upload/file/Personalized_Pooja.webp",
+     "page_url": "https://talktoguruji.com/astrology-services/online-pooja-booking",
+     "status": "publish"
+    },
+    {
+     "img_url": "https://talktoguruji.com/upload/file/Kundli_Banner.webp",
+     "page_url": "https://talktoguruji.com/astrology-services/free-kundli",
+     "status": "publish"
+    },
+    {
+     "img_url": "https://talktoguruji.com/upload/file/Horoscope_Banner-3.webp",
+     "page_url": "https://talktoguruji.com/horoscope/daily",
+     "status": "publish"
+    }
+   ],
+   "blogData": [
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 12_31_33 AM1.png",
+     "title": "Astrology Behind Exam Failure and Study Blocks",
+     "status": "publish",
+     "created_at": "2026-02-04T19:02:55.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "astrology-behind-exam-failure-and-study-blocks",
+     "updated_at": "2026-02-04T19:42:50.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 12_27_19 AM1.png",
+     "title": "Astrological Remedies for Reducing Debts",
+     "status": "publish",
+     "created_at": "2026-02-04T18:58:03.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "astrological-remedies-for-reducing-debts",
+     "updated_at": "2026-02-04T19:42:35.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 4, 2026, 08_21_01 PM1.png",
+     "title": "Five Daily Habits That Activate Luck",
+     "status": "publish",
+     "created_at": "2026-02-04T18:53:00.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "five-daily-habits-that-activate-luck",
+     "updated_at": "2026-02-04T19:42:17.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_10,_2025,_12_45_11_PM.png",
+     "title": "The Astrological Root of Anxiety",
+     "status": "publish",
+     "created_at": "2025-12-10T07:16:24.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "the-astrological-root-of-anxiety",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_10,_2025,_12_37_58_PM.png",
+     "title": "Astrological Techniques to Reduce Anger",
+     "status": "publish",
+     "created_at": "2025-12-10T07:08:47.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "astrological-techniques-to-reduce-anger",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_10,_2025,_12_32_44_PM.png",
+     "title": "Why Breakups Repeat in Your Life: An Astrological Insight",
+     "status": "publish",
+     "created_at": "2025-12-10T07:04:11.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "why-breakups-repeat-in-your-life-an-astrological-insight",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_10,_2025,_12_26_36_PM.png",
+     "title": "Why Career Growth Slows Down: A Planet-Wise Explanation",
+     "status": "publish",
+     "created_at": "2025-12-10T06:57:34.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "why-career-growth-slows-down-a-planet-wise-explanation",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_10,_2025,_12_06_55_PM.png",
+     "title": "Astrological Reasons Why Money Gets Stuck and How to Fix It",
+     "status": "publish",
+     "created_at": "2025-12-10T06:41:08.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "astrological-reasons-why-money-gets-stuck-and-how-to-fix-it",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_9,_2025,_02_29_16_PM.png",
+     "title": "Twelfth House: How Losses and Expenses Show Up",
+     "status": "publish",
+     "created_at": "2025-12-09T08:59:59.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "twelfth-house-how-losses-and-expenses-show-up",
+     "updated_at": "2025-12-10T08:21:04.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_9,_2025,_02_24_15_PM.png",
+     "title": "Tenth House: Career Growth Indicators in Astrology",
+     "status": "publish",
+     "created_at": "2025-12-09T08:54:52.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "tenth-house-career-growth-indicators-in-astrology",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_9,_2025,_02_15_27_PM.png",
+     "title": "Ninth House: Practical Ways to Activate Luck",
+     "status": "publish",
+     "created_at": "2025-12-09T08:46:09.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "ninth-house-practical-ways-to-activate-luck",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_9,_2025,_01_47_31_PM.png",
+     "title": "Eighth House: Sudden Problems and Hidden Issues",
+     "status": "publish",
+     "created_at": "2025-12-09T08:19:58.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "eighth-house-sudden-problems-and-hidden-issues",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_9,_2025,_01_09_08_PM.png",
+     "title": "Weak seventh House: Why Relationships Break Easily ",
+     "status": "publish",
+     "created_at": "2025-12-09T07:40:13.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "weak-seventh-house-why-relationships-break-easily",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_8,_2025,_05_20_05_PM.png",
+     "title": "Fifth House: Love, Creativity & Children",
+     "status": "publish",
+     "created_at": "2025-12-08T11:51:14.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "fifth-house-love-creativity-and-children",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_8,_2025,_05_15_49_PM.png",
+     "title": "4th House and Emotional Stability",
+     "status": "publish",
+     "created_at": "2025-12-08T11:46:40.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "fourth-house-and-emotional-stability",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_8,_2025,_04_44_02_PM.png",
+     "title": "Third House Weakness: Why Motivation Fades ",
+     "status": "publish",
+     "created_at": "2025-12-08T11:14:53.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "third-house-weakness-why-motivation-fades",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_8,_2025,_04_01_46_PM.png",
+     "title": "2nd House: The Real Root of Money Blockages",
+     "status": "publish",
+     "created_at": "2025-12-08T10:34:33.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "second-house-the-real-root-of-money-blockages",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_7,_2025,_09_32_29_PM.png",
+     "title": "How a Strong 1st House Changes Your Entire Life",
+     "status": "publish",
+     "created_at": "2025-12-08T10:24:16.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "how-a-strong-first-house-changes-your-entire-life",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_6,_2025,_11_08_06_PM.png",
+     "title": "A Simple 10 Minute Daily Navagraha Balancing Routine",
+     "status": "publish",
+     "created_at": "2025-12-06T17:39:15.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "simple-10-minute-daily-navagraha-balancing-routine",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_6,_2025,_11_01_51_PM.png",
+     "title": "Ketu and Work Blockages: When and Why It Happens",
+     "status": "publish",
+     "created_at": "2025-12-06T17:32:45.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "ketu-and-work-blockages-when-and-why-it-happens",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_6,_2025,_10_49_51_PM.png",
+     "title": "How Rahu Creates Stress, Overthinking and Confusion",
+     "status": "publish",
+     "created_at": "2025-12-06T17:20:42.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "how-rahu-creates-stress-overthinking-and-confusion",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Dec_6,_2025,_10_43_17_PM.png",
+     "title": "Shani Dhaiya and Sade Sati Explained in Simple Words",
+     "status": "publish",
+     "created_at": "2025-12-06T17:14:16.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "shani-dhaiya-and-sade-sati-explained-in-simple-words",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_30,_2025,_02_36_20_PM.png",
+     "title": "Why Relationship Issues Start When Venus Becomes Weak",
+     "status": "publish",
+     "created_at": "2025-11-30T09:07:31.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "why-relationship-issues-start-when-venus-becomes-weak",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_30,_2025,_02_28_55_PM.png",
+     "title": "How to Activate Jupiter’s Grace in Daily Life",
+     "status": "publish",
+     "created_at": "2025-11-30T09:01:25.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "how-to-activate-jupiters-grace-in-daily-life",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_27,_2025,_02_55_33_PM.png",
+     "title": "How Weak Mercury Affects Communication and Decisions",
+     "status": "publish",
+     "created_at": "2025-11-27T09:27:26.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "how-weak-mercury-affects-communication-and-decisions",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_27,_2025,_02_49_51_PM.png",
+     "title": "Why Weak Mars Causes Anger and Arguments",
+     "status": "publish",
+     "created_at": "2025-11-27T09:20:38.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "why-weak-mars-causes-anger-and-arguments",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_26,_2025,_12_28_31_PM.png",
+     "title": "Moon Dosha: Emotional Imbalance Explained Simply",
+     "status": "publish",
+     "created_at": "2025-11-26T06:59:16.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "moon-dosha-emotional-imbalance-explained-simply",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_26,_2025,_12_23_05_PM.png",
+     "title": "Symptoms of a Weak Sun and How It Affects Your Confidence",
+     "status": "publish",
+     "created_at": "2025-11-26T06:54:15.000Z",
+     "sub_title": "Guru Ji",
+     "slug": "symptoms-of-a-weak-sun-and-its-impact-on-confidence",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_21,_2025,_04_30_38_PM.png",
+     "title": "Plan Your Best Future After Retirement with These Astrology Tips",
+     "status": "publish",
+     "created_at": "2025-11-21T11:01:31.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "plan-your-best-future-after-retirement-with-astrology-tips",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_21,_2025,_04_24_55_PM.png",
+     "title": "Dealing with Ruthless Astrological Personalities",
+     "status": "publish",
+     "created_at": "2025-11-21T10:56:04.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "dealing-with-ruthless-astrological-personalities",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_18,_2025,_11_03_23_AM.png",
+     "title": "Shani Dev Remedies for Good Results ",
+     "status": "publish",
+     "created_at": "2025-11-18T05:34:35.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "shani-dev-remedies-for-good-results",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_18,_2025,_10_51_37_AM.png",
+     "title": "Vastu Tips for Daily Life",
+     "status": "publish",
+     "created_at": "2025-11-18T05:22:55.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "vastu-tips-for-daily-life",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_17,_2025,_06_22_12_PM.png",
+     "title": "Planetary Transit - Shifts in Cosmic Energy",
+     "status": "publish",
+     "created_at": "2025-11-17T12:53:11.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "planetary-transit-shifts-in-cosmic-energy",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_17,_2025,_06_14_28_PM.png",
+     "title": "Sleeping directions as per vastu",
+     "status": "publish",
+     "created_at": "2025-11-17T12:45:18.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "sleeping-directions-according-to-vastu",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_11_00_26_AM.png",
+     "title": "Compatibility in Terms of Numerology",
+     "status": "publish",
+     "created_at": "2025-11-07T05:31:32.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "compatibility-in-terms-of-numerology",
+     "updated_at": "2025-11-11T09:45:51.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_10_53_33_AM.png",
+     "title": "How Astrology Can Improve Your Daily Routine",
+     "status": "publish",
+     "created_at": "2025-11-07T05:25:33.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "how-astrology-can-improve-your-daily-routine",
+     "updated_at": "2025-11-10T08:00:32.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_10_46_57_AM.png",
+     "title": "Understanding Family Dynamics with Numerology",
+     "status": "publish",
+     "created_at": "2025-11-07T05:18:17.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "understanding-family-dynamics-with-numerology",
+     "updated_at": "2025-11-10T08:00:16.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_10_26_27_AM.png",
+     "title": "Child Naming Numerology: The Secret to a Prosperous Future",
+     "status": "publish",
+     "created_at": "2025-11-07T04:57:20.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "child-naming-numerology-the-secret-to-a-prosperous-future",
+     "updated_at": "2025-11-09T07:03:06.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_10_13_47_AM.png",
+     "title": "Mobile Number and Numerology: Decoding the Energy of Digits",
+     "status": "publish",
+     "created_at": "2025-11-07T04:44:38.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "mobile-number-and-numerology-decoding-the-energy-of-digits",
+     "updated_at": "2025-11-09T07:02:54.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_10_05_36_AM.png",
+     "title": "Planet 3 in Every House: A Guide to Its Vedic Astrology Significance",
+     "status": "publish",
+     "created_at": "2025-11-07T04:36:36.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "planet-3-in-every-house-vedic-astrology-significance",
+     "updated_at": "2025-11-08T07:57:59.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_09_58_45_AM.png",
+     "title": "Tarot Card Reading in Daily Life: A Tool for Clarity and Guidance",
+     "status": "publish",
+     "created_at": "2025-11-07T04:29:50.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "tarot-card-reading-in-daily-life-a-tool-for-clarity-and-guidance",
+     "updated_at": "2025-11-08T07:56:36.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_09_48_07_AM.png",
+     "title": "Nazar Dosh: Understanding the Evil Eye and Its Remedies",
+     "status": "publish",
+     "created_at": "2025-11-07T04:19:04.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "nazar-dosh-understanding-the-evil-eye-and-its-remedies",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_7,_2025,_09_42_02_AM.png",
+     "title": "Stocks and Astrology: Decoding Market Trends with Cosmic Guidance",
+     "status": "publish",
+     "created_at": "2025-11-07T04:12:53.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "stocks-and-astrology-decoding-market-trends-with-cosmic-guidance",
+     "updated_at": "2025-11-07T04:19:39.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_08_56_42_PM.png",
+     "title": "Pisces Zodiac Sign: A Journey Through Dreams and Depth",
+     "status": "publish",
+     "created_at": "2025-11-02T15:27:49.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "pisces-zodiac-sign-journey-through-dreams-and-depth",
+     "updated_at": "2025-11-06T04:02:47.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_08_50_34_PM.png",
+     "title": "Aquarius: A Glimpse into the Mind of the Water Bearer",
+     "status": "publish",
+     "created_at": "2025-11-02T15:21:17.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "aquarius-glimpse-into-the-mind-of-the-water-bearer",
+     "updated_at": "2025-11-06T04:02:35.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_08_36_46_PM.png",
+     "title": "Capricorn Zodiac Sign: Strength in Patience and Perseverance",
+     "status": "publish",
+     "created_at": "2025-11-02T15:07:38.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "capricorn-zodiac-sign-strength-in-patience-and-perseverance",
+     "updated_at": "2025-11-05T02:23:05.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_04_08_28_PM.png",
+     "title": "Sagittarius Zodiac Sign: A Journey of Adventure and Wisdom",
+     "status": "publish",
+     "created_at": "2025-11-02T10:39:49.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "sagittarius-zodiac-sign-journey-of-adventure-and-wisdom",
+     "updated_at": "2025-11-05T02:22:39.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_03_57_49_PM.png",
+     "title": "Scorpio Zodiac Sign: A Journey of Passion and Transformation",
+     "status": "publish",
+     "created_at": "2025-11-02T10:28:34.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "scorpio-zodiac-sign-journey-of-passion-and-transformation",
+     "updated_at": "2025-11-04T01:56:06.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_03_52_40_PM.png",
+     "title": "Libra Zodiac Sign: A Journey of Harmony and Balance",
+     "status": "publish",
+     "created_at": "2025-11-02T10:23:25.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "libra-zodiac-sign-journey-of-harmony-and-balance",
+     "updated_at": "2025-11-04T01:55:38.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_03_48_16_PM.png",
+     "title": "Virgo Zodiac Sign: A Journey of Precision and Practicality",
+     "status": "publish",
+     "created_at": "2025-11-02T10:19:01.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "virgo-zodiac-sign-journey-of-precision-and-practicality",
+     "updated_at": "2025-11-03T05:02:58.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_03_43_58_PM.png",
+     "title": "Leo Zodiac Sign: A Journey of Confidence and Charisma",
+     "status": "publish",
+     "created_at": "2025-11-02T10:14:46.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "leo-zodiac-sign-journey-of-confidence-and-charisma",
+     "updated_at": "2025-11-03T05:02:37.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_01_20_33_PM.png",
+     "title": "Cancer Zodiac Sign: A Deep Dive into the Heart of the Zodiac",
+     "status": "publish",
+     "created_at": "2025-11-02T07:51:22.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "cancer-zodiac-sign-deep-dive-into-the-heart-of-the-zodiac",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_2,_2025,_01_13_58_PM.png",
+     "title": "Gemini Zodiac Sign: A Journey of Curiosity and Adaptability",
+     "status": "publish",
+     "created_at": "2025-11-02T07:46:25.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "gemini-zodiac-sign-journey-of-curiosity-and-adaptability",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_1,_2025,_01_28_07_PM.png",
+     "title": "Taurus Zodiac Sign: A Journey of Stability and Elegance",
+     "status": "publish",
+     "created_at": "2025-11-01T07:59:05.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "taurus-zodiac-sign-journey-of-stability-and-elegance",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Nov_1,_2025,_01_20_44_PM.png",
+     "title": "Aries Zodiac Sign: A Journey of Courage and Passion",
+     "status": "publish",
+     "created_at": "2025-11-01T07:52:09.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "aries-zodiac-sign-journey-of-courage-and-passion",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_30,_2025,_09_50_12_AM.png",
+     "title": "Sun Sign Compatibility: Friendship, Enmity, and Neutrality",
+     "status": "publish",
+     "created_at": "2025-10-30T04:21:02.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "sun-sign-compatibility-friendship-enmity-and-neutrality",
+     "updated_at": "2025-11-01T07:06:57.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_30,_2025,_09_41_49_AM.png",
+     "title": "Sun Signs and Lotteries: Tips for Winning Big",
+     "status": "publish",
+     "created_at": "2025-10-30T04:12:29.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "sun-signs-and-lotteries-tips-for-winning-big",
+     "updated_at": "2025-10-31T05:45:41.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_30,_2025,_09_35_58_AM.png",
+     "title": "Unlock Personal Success Through Astrological Guidance",
+     "status": "publish",
+     "created_at": "2025-10-30T04:06:48.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "unlock-personal-success-through-astrological-guidance",
+     "updated_at": "2025-10-31T05:45:24.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_30,_2025,_09_26_12_AM.png",
+     "title": "Astrology Tips to Align with Nature's Rhythms",
+     "status": "publish",
+     "created_at": "2025-10-30T03:57:03.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-tips-to-align-with-natures-rhythms",
+     "updated_at": "2025-10-30T04:23:23.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_30,_2025,_09_15_16_AM.png",
+     "title": "Enhance Time Management with Numerology",
+     "status": "publish",
+     "created_at": "2025-10-30T03:47:52.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "numerology-time-management-tips-for-productivity",
+     "updated_at": "2025-10-30T03:57:35.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_28,_2025,_01_07_43_PM.png",
+     "title": "Astrology Insights for Better Sleep: Tailored Tips for Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-10-28T07:38:26.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-insights-for-better-sleep-zodiac-tips",
+     "updated_at": "2025-10-29T09:25:24.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_28,_2025,_12_49_29_PM.png",
+     "title": "Numerology and Your Soul’s Purpose",
+     "status": "publish",
+     "created_at": "2025-10-28T07:20:29.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "numerology-and-your-souls-purpose",
+     "updated_at": "2025-10-29T09:14:06.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_27,_2025,_01_57_32_PM3.png",
+     "title": "Vishnu Sahasranam: The 1,000 Names of Lord Vishnu",
+     "status": "publish",
+     "created_at": "2025-10-27T07:55:36.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "vishnu-sahasranam-meaning-benefits-recitation-guide",
+     "updated_at": "2025-10-29T09:13:30.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_27,_2025,_01_44_37_PM2.png",
+     "title": "Karmic Insights: Unveiling Past Lessons with Numerology",
+     "status": "publish",
+     "created_at": "2025-10-27T07:46:44.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "karmic-insights-unveiling-past-lessons-with-numerology",
+     "updated_at": "2025-10-28T04:50:44.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_27,_2025,_01_41_11_PM1.png",
+     "title": "Creative Boost: Numerology Techniques for Inspiration",
+     "status": "publish",
+     "created_at": "2025-10-27T07:44:03.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "creative-boost-numerology-techniques-for-inspiration",
+     "updated_at": "2025-10-28T04:47:59.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_27,_2025,_01_37_35_PM1.png",
+     "title": "Unlock Your Past: Numerology’s Deep Insights",
+     "status": "publish",
+     "created_at": "2025-10-27T07:41:24.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "unlock-your-past-numerology-deep-insights",
+     "updated_at": "2025-10-27T11:31:07.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/ChatGPT_Image_Oct_27,_2025,_01_30_46_PM4.png",
+     "title": "Using Numerology to Improve Your Mental Health",
+     "status": "publish",
+     "created_at": "2025-10-27T07:30:31.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "numerology-for-better-mental-health",
+     "updated_at": "2025-10-27T11:10:36.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-08-21_at_6.07.24_PM.png",
+     "title": "The Power of Number 9: September’s Energy of Completion in Numerology",
+     "status": "publish",
+     "created_at": "2025-08-21T12:37:46.000Z",
+     "sub_title": "Guruji",
+     "slug": "september-energy",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-08-19_at_3.51.38_PM.png",
+     "title": "Pitru Paksha & Astrology: Honoring Ancestors Through Planetary Energies",
+     "status": "publish",
+     "created_at": "2025-08-19T10:22:05.000Z",
+     "sub_title": "Guruji",
+     "slug": "pitru-paksha",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-08-18_at_4.24.32_PM.png",
+     "title": "Shravan to Bhadrapada: How Energy Shifts After Sawan",
+     "status": "publish",
+     "created_at": "2025-08-18T10:55:24.000Z",
+     "sub_title": "Guruji",
+     "slug": "shravan-to-bhadrapada",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.42.31_AM.png",
+     "title": "How Each Zodiac Sign Finds Inner Peace",
+     "status": "publish",
+     "created_at": "2025-07-31T05:13:32.000Z",
+     "sub_title": "Guruji",
+     "slug": "how-each-zodiac-sign-finds-inner-peace",
+     "updated_at": "2025-07-31T06:01:46.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_10.44.19_AM.png",
+     "title": "Planetary Retrogrades 2025: What Each One Means for You",
+     "status": "publish",
+     "created_at": "2025-07-30T05:15:21.000Z",
+     "sub_title": "Guruji",
+     "slug": "planetary-retrogrades",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot_2025-07-28_at_11.09.10_AM.png",
+     "title": "Unlocking the Big 3: What Your Sun, Moon & Rising Signs Reveal About You",
+     "status": "publish",
+     "created_at": "2025-07-28T05:43:02.000Z",
+     "sub_title": "Guruji",
+     "slug": "sun-moon-rising-sign",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-07-18 at 11.01.23â¯AM.png",
+     "title": "Why You Keep Repeating the Same Patterns — And What Your Birth Chart Says About It",
+     "status": "publish",
+     "created_at": "2025-07-18T05:32:11.000Z",
+     "sub_title": "Sanya Grover",
+     "slug": "why-you-keep-repeating-the-same-patterns",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (10).jpg",
+     "title": "Moon Remedies: Embrace Emotional Harmony and Inner Calm",
+     "status": "publish",
+     "created_at": "2025-07-17T01:58:53.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "moon-remedies-emotional-harmony-inner-calm",
+     "updated_at": "2025-07-17T02:00:52.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (9).jpg",
+     "title": "Harness the Power of the Sun: Remedies for Positivity and Prosperity",
+     "status": "publish",
+     "created_at": "2025-07-16T02:35:01.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "harness-sun-remedies-positivity-prosperity",
+     "updated_at": "2025-07-16T02:43:15.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-07-15 at 2.26.42â¯PM.png",
+     "title": "Boost Your Business with Planetary Remedies: Unlocking Success Through Astrology",
+     "status": "publish",
+     "created_at": "2025-07-15T08:57:03.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "boost-your-business-with-planetary-remedies",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (8).jpg",
+     "title": "Child Naming Numerology: The Secret to a Prosperous Future",
+     "status": "publish",
+     "created_at": "2025-07-09T02:09:37.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "child-naming-numerology-prosperous-future",
+     "updated_at": "2025-07-09T02:12:04.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (7).jpg",
+     "title": "Mobile Number and Numerology: Decoding the Energy of Digits",
+     "status": "publish",
+     "created_at": "2025-07-08T02:20:33.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "mobile-number-numerology-energy-of-digits",
+     "updated_at": "2025-07-08T02:22:34.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Add a heading (2).png",
+     "title": "Test blog",
+     "status": "draft",
+     "created_at": "2025-07-07T07:42:42.000Z",
+     "sub_title": "Tester",
+     "slug": "test-blog",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (6).jpg",
+     "title": "Remedies on Friday: Unlock Venus's Energy for Love and Prosperity",
+     "status": "publish",
+     "created_at": "2025-07-04T02:06:51.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "remedies-friday-unlock-venus-energy-love-prosperity",
+     "updated_at": "2025-07-04T02:11:35.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (5).jpg",
+     "title": "Astrology Insights for Better Sleep: Tailored Tips for Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-07-01T02:25:34.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-insights-better-sleep-zodiac-tips",
+     "updated_at": "2025-07-01T02:35:34.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-06-30 at 3.19.08â¯PM.png",
+     "title": "Best Diets Based on Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-06-30T09:49:23.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "best-diets-based-on-your-zodiac-sign",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (3).jpg",
+     "title": "Karmic Insights: Unveiling Past Lessons with Numerology",
+     "status": "publish",
+     "created_at": "2025-06-28T04:01:53.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "karmic-insights-numerology-past-lessons",
+     "updated_at": "2025-06-29T04:41:15.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (2).jpg",
+     "title": "Numerology Secrets to Unlock Your Past and Shape Your Future",
+     "status": "publish",
+     "created_at": "2025-06-28T03:53:28.000Z",
+     "sub_title": "kairvi Punj",
+     "slug": "numerology-secrets-unlock-past-shape-future",
+     "updated_at": "2025-06-28T03:55:40.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-06-26 at 11.06.57â¯AM.png",
+     "title": "Zen and the Stars: Astrology-Based Meditation Tips",
+     "status": "publish",
+     "created_at": "2025-06-26T05:37:20.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-based-meditation-tips",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO (4).jpg",
+     "title": "Ashwini Nakshatra: A Unique Blend of Strength and Grace",
+     "status": "draft",
+     "created_at": "2025-06-26T04:49:14.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "ashwini-nakshatra-strength-and-grace",
+     "updated_at": "2025-07-04T01:57:53.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/VIRGO1.jpg",
+     "title": "Virgo Understanding the Perfectionist of the Zodiac",
+     "status": "publish",
+     "created_at": "2025-06-26T04:42:51.000Z",
+     "sub_title": "kairvi Punj",
+     "slug": "virgo-understanding-the-perfectionist-of-the-zodiac",
+     "updated_at": "2025-06-28T03:18:01.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/CANCER (1)1.jpg",
+     "title": "Leo - The Royal Ruler of the Zodiac",
+     "status": "publish",
+     "created_at": "2025-06-26T04:27:54.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "leo-royal-ruler-zodiac",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/CANCER.jpg",
+     "title": "Unlocking Cancer Energy: How to Embrace the Crab Within",
+     "status": "publish",
+     "created_at": "2025-06-23T02:06:10.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "cancer-embrace-the-crab-in-you",
+     "updated_at": "2025-06-24T04:43:50.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Aries (2).jpg",
+     "title": "Twins of the Zodiac: A Gemini’s Tale",
+     "status": "publish",
+     "created_at": "2025-06-19T14:20:56.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "gemini-the-twin-tastic-personality",
+     "updated_at": "2025-06-23T01:53:04.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Aries (1).jpg",
+     "title": "Rooted in Earth: The True Essence of Taurus",
+     "status": "publish",
+     "created_at": "2025-06-19T14:10:00.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "aurus-sun-sign-characteristics-life-of-the-bull",
+     "updated_at": "2025-06-21T05:09:19.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Aries.jpg",
+     "title": "Bold by Nature: The Aries Zodiac Revealed",
+     "status": "publish",
+     "created_at": "2025-06-19T02:48:09.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "aries-bold-unstoppable-fire-sign",
+     "updated_at": "2025-06-20T03:06:29.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Numerology techniques for success and growth.png",
+     "title": "How Numerology Techniques Can Inspire Success and Growth",
+     "status": "publish",
+     "created_at": "2025-06-16T15:35:05.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "how-numerology-techniques-inspire-success-growth",
+     "updated_at": "2025-06-20T06:35:50.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-06-08 at 8.00.04â¯PM.png",
+     "title": "Decode Your Dreams: Numerology’s Nighttime Insights",
+     "status": "publish",
+     "created_at": "2025-06-08T14:33:32.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "decode-your-dreams",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-05-28 at 1.09.25â¯PM.png",
+     "title": "Wearing the Wrong Gemstone Can Harm You: Astrology Guide to Choosing the Right Stone",
+     "status": "publish",
+     "created_at": "2025-05-28T07:41:11.000Z",
+     "sub_title": "Sanya Grover",
+     "slug": "wearing-the-wrong-gemstone-can-harm-you",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Screenshot 2025-05-27 at 7.23.25â¯PM.png",
+     "title": "Vastu and Daily Life",
+     "status": "publish",
+     "created_at": "2025-05-22T08:43:04.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "vastu-and-daily-life",
+     "updated_at": "2025-05-27T13:56:04.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/enhance-yoga.png",
+     "title": "Enhance Your Yoga Practice with Astrology",
+     "status": "publish",
+     "created_at": "2025-05-20T07:26:38.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "enhance-your-yoga-practice-with-astrology",
+     "updated_at": "2025-05-22T10:25:20.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Blog-Banner-4.jpg",
+     "title": "Numerology Tips for Staying Active",
+     "status": "publish",
+     "created_at": "2025-05-19T13:50:06.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "stay-active-with-numerology",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Blog-Banner-3.jpg",
+     "title": "Astrology Insights for Better Sleep: Tailored Tips for Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-05-19T13:46:00.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "better-sleep-tips-by-zodiac-sign",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Blog-Banner-2.jpg",
+     "title": "Best Diets Based on Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-05-19T13:43:53.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "best-diet-for-each-zodiac-sign",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Blog_2.jpg",
+     "title": "Using Numerology to Improve Your Mental Health",
+     "status": "publish",
+     "created_at": "2025-05-19T13:41:17.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "using-numerology-to-improve-mental-health",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/anxiety.png",
+     "title": "Astrology Insights for Managing Anxiety",
+     "status": "publish",
+     "created_at": "2025-05-16T09:56:22.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-insights-for-managing-anxiety",
+     "updated_at": "2025-05-16T10:13:02.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Blog_Thumbnail.jpg",
+     "title": "Enhance Time Management with Numerology",
+     "status": "publish",
+     "created_at": "2025-04-24T12:22:59.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "enhance-time-management-with-numerology",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Live_in_Harmony_with_Nature_Through_Astrology.png",
+     "title": "Astrology for Earth Lovers: Find Balance with Your Zodiac Sign",
+     "status": "publish",
+     "created_at": "2025-04-22T07:14:21.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-for-earth-lovers-zodiac-balance-nature",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Astrology_for_Anxiety_Cosmic_Tools_to_Soothe_Your_Mind.png",
+     "title": "How Astrology Can Help You Manage Anxiety and Stress Naturally",
+     "status": "publish",
+     "created_at": "2025-04-22T07:01:23.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "how-astrology-can-help-manage-anxiety-and-stress-naturally",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/holi_colors1.webp",
+     "title": "Spiritual Cleansing Through Colors: Holi Rituals for Inner Peace and Prosperity",
+     "status": "publish",
+     "created_at": "2025-03-13T10:00:40.000Z",
+     "sub_title": "Raghvendra Singh",
+     "slug": "spiritual-cleansing-through-colors-holi-rituals",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/holika_dehen.webp",
+     "title": "Holika Dehen: Remedies for an Abundant Life",
+     "status": "publish",
+     "created_at": "2025-03-13T09:36:57.000Z",
+     "sub_title": "Raghvendra Singh",
+     "slug": "holika-dehen-day-remedies-for-abundance",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Lucky_numbers.png",
+     "title": "Unlock Your True Fortune: Discovering Your Real Lucky Numbers",
+     "status": "publish",
+     "created_at": "2025-02-20T15:42:14.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "true-fortune-your-real-lucky-numbers",
+     "updated_at": "2025-05-19T12:25:25.000Z"
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Vastu_and_daily_life.png",
+     "title": "Creating a Balanced Life with Vastu Principles",
+     "status": "publish",
+     "created_at": "2025-02-20T15:28:34.000Z",
+     "sub_title": null,
+     "slug": "balanced-life-vastu-principles",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Tarot_cards_daily_tips.png",
+     "title": "Tarot Reading Rituals for Everyday Use",
+     "status": "publish",
+     "created_at": "2025-02-20T15:17:37.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "Tarot-card-rituals",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Anxiety_and_astrology4.png",
+     "title": "Using astrology insights for managing anxiety",
+     "status": "publish",
+     "created_at": "2025-02-20T09:06:53.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "astrology-insights-managing-anxiety",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Evil_eye.png",
+     "title": "Nazar Dosh: Signs, Effects, and Powerful Remedies",
+     "status": "publish",
+     "created_at": "2025-02-20T09:00:18.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "nazar-dosh-signs-effects-remedies",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/abundance_and_astrology.webp",
+     "title": "2025 Best Remedies to Increase Abundance and Money Flow",
+     "status": "publish",
+     "created_at": "2025-02-18T10:26:49.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "best-remedies-for-abundance-moneyflow",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Numerology_and_dream.webp",
+     "title": "Decode your dreams through 'Numerology'",
+     "status": "publish",
+     "created_at": "2025-02-18T09:51:22.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "decoding-dream-numerology",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Numerology_and_dream.webp",
+     "title": "A Guide to Romance-  Sunsigns ",
+     "status": "publish",
+     "created_at": "2025-02-04T06:18:34.000Z",
+     "sub_title": "Kairvi Punj",
+     "slug": "sunsign-romance-traits",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/business_growth_secrets.webp",
+     "title": "Financial Growth for Every Sun Sign: Unlock Your Potential",
+     "status": "publish",
+     "created_at": "2025-01-21T06:14:47.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "financial-growth-sunsigns",
+     "updated_at": null
+    },
+    {
+     "image": "https://talktoguruji.com/upload/file/Debt_Relief.webp",
+     "title": "Debt Relief Remedies for Every Sun Sign",
+     "status": "publish",
+     "created_at": "2025-01-21T06:10:17.000Z",
+     "sub_title": "Kritika Raje",
+     "slug": "debt-relief-remedies",
+     "updated_at": null
+    }
+   ],
+   "newsData": [
+    {
+     "file_url": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 01_22_30 AM.png",
+     "img_url": null,
+     "title": "Mars Retrograde 2026–27: Escalation-Risk Windows, Conflict Patterns, and Where Pressure Peaks",
+     "status": "publish",
+     "created_at": "2026-02-04T19:59:32.000Z",
+     "user_name": "Guru Ji",
+     "slug": "mars-retrograde-2026-27-escalation-risk-windows-conflict-patterns"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 01_23_22 AM.png",
+     "img_url": null,
+     "title": "Rahu–Ketu Shift 2026: The Geopolitical Reset Nobody Advertises",
+     "status": "publish",
+     "created_at": "2026-02-04T19:57:15.000Z",
+     "user_name": "Guru Ji",
+     "slug": "rahu-ketu-shift-2026-the-geopolitical-reset-nobody-advertises"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 12_45_54 AM.png",
+     "img_url": null,
+     "title": "Saturn–Neptune Conjunction 2026: Reality Check Phase for Governments, Markets, and Mass Psychology",
+     "status": "publish",
+     "created_at": "2026-02-04T19:17:40.000Z",
+     "user_name": "Guru Ji",
+     "slug": "saturn-neptune-conjunction-2026-reality-check-phase"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/ChatGPT Image Feb 5, 2026, 12_41_34 AM1.png",
+     "img_url": null,
+     "title": "2026 Solar & Lunar Eclipses — Dates, Global Pressure Zones & Zodiac Impact ",
+     "status": "publish",
+     "created_at": "2026-02-04T19:12:19.000Z",
+     "user_name": "Guru Ji",
+     "slug": "2026-solar-lunar-eclipses-dates-global-pressure-zones-zodiac-impact"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/Samsaptak_yog_september_2025.png",
+     "img_url": null,
+     "title": "Sun-Saturn Samsaptak Yoga 2025: How This Rare Alignment Impacts 3 Zodiac Signs",
+     "status": "publish",
+     "created_at": "2025-09-17T07:25:26.000Z",
+     "user_name": "GURU JI",
+     "slug": "sun-saturn-samsaptak-yoga-2025-impact"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/lunar-eclipse-2025-from-aries-to-pisces.png",
+     "img_url": null,
+     "title": "Chandra Grahan 2025: Astrological Impact on All Zodiac Signs & Remedies",
+     "status": "publish",
+     "created_at": "2025-09-06T12:46:51.000Z",
+     "user_name": "GURU JI",
+     "slug": "chandra-grahan-astrological-impact-zodiac-signs-remedies"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/Kendra Yoga.png",
+     "img_url": null,
+     "title": "Sun–Saturn Kendra Yog on June 23, 2025: Big Gains for Aries, Cancer, and Capricorn",
+     "status": "publish",
+     "created_at": "2025-06-20T07:03:18.000Z",
+     "user_name": "Sanya Grover",
+     "slug": "sun-saturn-kendra-yog-zodiac-benefits"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/tarot_in_2025.webp",
+     "img_url": null,
+     "title": "Astrology News: The Tarot Predictions 2025 – What’s in Store for the Stock Market?",
+     "status": "publish",
+     "created_at": "2025-02-27T06:56:24.000Z",
+     "user_name": "Kritika Raje",
+     "slug": "Astrology-news-tarot-predictions-2025"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/eclipses_in_2025.webp",
+     "img_url": null,
+     "title": "Eclipses 2025: Dates and Fascinating Facts",
+     "status": "publish",
+     "created_at": "2025-02-27T06:50:23.000Z",
+     "user_name": "Kritika Raje",
+     "slug": "Eclipses-2025-dates"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/Yogas_2025_astrological.webp",
+     "img_url": null,
+     "title": "Astrology News 2025: Key Planetary Shifts and Yogas to Watch Out For",
+     "status": "publish",
+     "created_at": "2025-02-27T06:35:05.000Z",
+     "user_name": "Kritika Raje",
+     "slug": "Astrology-news-2025-key-planetary-shifts"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/Astrology_Forecast_2025.webp",
+     "img_url": null,
+     "title": "Astrological Forecast 2025",
+     "status": "publish",
+     "created_at": "2025-02-05T09:16:10.000Z",
+     "user_name": "Kritika",
+     "slug": "astrological-forecast"
+    },
+    {
+     "file_url": "https://talktoguruji.com/upload/file/Rahu_Blessings_in_2025-1.webp",
+     "img_url": null,
+     "title": "Rahu's Remedial Days: Harnessing the Power of the North Node for Spiritual Growth",
+     "status": "publish",
+     "created_at": "2025-02-04T13:15:23.000Z",
+     "user_name": "Kairvi",
+     "slug": "rahu-remedials-days-2025"
+    }
+   ],
+   "videoData": [
+    {
+     "title": "Bure Time me Kare Ye Kaam | Shani Dev: Aapki Zindagi Badal Denge",
+     "status": "publish",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Shani_Dev_Remedies.webp",
+     "slug": "Bure-samay-me-kare-ye -kaam-shani-dev"
+    },
+    {
+     "title": "2025 Mein Aapka Saal Kaisa Rahega? Naam Ke Pehle Akshar (A-Z) Se Janein",
+     "status": "publish",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Name_Horoscope_2025.webp",
+     "slug": "2025-prediction-name-first letter-astrology"
+    },
+    {
+     "title": "Mulank 1 - 9 2025 Predictions | 1 - 9 Numerology Predictions 2025 | भविष्यफल 2025 by Talk to Guruji",
+     "status": "publish",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Numerology_1_2025.webp",
+     "slug": "Mulank-1-9-2025-prediction"
+    },
+    {
+     "title": "Complete Yearly Horoscope 2025 | 2025 Varshik Rashifal by Talk to Guruji ",
+     "status": "publish",
+     "thumbnail_img": "https://talktoguruji.com/upload/file/Zodiac_Horoscope_2025.webp",
+     "slug": "complete-yearly-horoscope-2025"
+    }
+   ],
+   "storyData": [
+    {
+     "title": "Sawan Fasts & Rituals: A Devotee’s Journey",
+     "slug": "sawan-fasts-rituals",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_11.00.30_AM.png"
+    },
+    {
+     "title": "Colors of Devotion: Sawan Vibes Around India",
+     "slug": "colours-of-sawan",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.16.01_AM.png"
+    },
+    {
+     "title": "Which Planet Is Causing Your Stress Right Now?",
+     "slug": "which-planet-is-causing-your-stress-right-now",
+     "status": "draft",
+     "img_url": "https://talktoguruji.com/upload/file/Screenshot 2025-06-26 at 11.45.20â¯AM.png"
+    },
+    {
+     "title": "Jyeshtha Purnima ",
+     "slug": "jyeshtha-purnima ",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/jyeshtha-purnima-2025.png"
+    },
+    {
+     "title": "Anvadhan 26th May 2025",
+     "slug": "Anvadhan-story",
+     "status": "draft",
+     "img_url": null
+    },
+    {
+     "title": "Navratri Sacred Colors: A Photo Gallery for Each Day",
+     "slug": "navratri-sacred-colors-photo-gallery",
+     "status": "draft",
+     "img_url": "https://talktoguruji.com/upload/file/navratri-cover.webp"
+    },
+    {
+     "title": "Kalashtami 2025",
+     "slug": "Kalashtami-ws",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/ws1.jpeg"
+    },
+    {
+     "title": "Evil Eye and Negativity Removal Remedies",
+     "slug": "evil-eye-and-negativity-removal-remedies",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/evil-eye-negativity-removal-2025.png"
+    },
+    {
+     "title": "In 2025, Numerology Says: Let Go to Grow",
+     "slug": "in-2025-numerology-says-let-go-to-grow",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/webstory-2025-05-16.png"
+    },
+    {
+     "title": "Ekdanta Sankashti Chaturthy",
+     "slug": "ekdanta-sankashti-chaturthi ",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-05-14_at_12.15.03_(2).jpeg"
+    },
+    {
+     "title": "Narad Jayanti 2025",
+     "slug": "narad-jayanti",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/WhatsApp_Image_2025-05-13_at_16.10.10.jpeg"
+    },
+    {
+     "title": "Your Zodiac’s Power Color for Each Navratri Day",
+     "slug": "your-zodiacs-power-color-navratri",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/Main_image_webgallery.webp"
+    },
+    {
+     "title": "2025 Impact On Your Year Journey Through Numerology",
+     "slug": "2025-impact-on-your-year-journey-through-numerology",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/2025-_Numerology.webp"
+    },
+    {
+     "title": "Remedies For Inner Peace And  Calmness 2025",
+     "slug": "remedies-fo- inner-peace-and-calmness-2025",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/peace_and_calm.webp"
+    },
+    {
+     "title": "Evil Eye and Negativity Removal Remedies",
+     "slug": "eveil-eye-and-negativity-removal-remedies",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/Evil_Eye1.webp"
+    },
+    {
+     "title": "Powerful Mantras and Wealth Attraction ",
+     "slug": "powerful-mantra-and-wealth-attraction-2025",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/Wealth3.webp"
+    },
+    {
+     "title": "2025 Zodiac Forecast",
+     "slug": "2025-zodiac-forecast",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/astrology_forecast1_(1).png"
+    },
+    {
+     "title": "Debt Relief Remedies for 2025",
+     "slug": "Debt-relief-remedies-2025",
+     "status": "publish",
+     "img_url": "https://talktoguruji.com/upload/file/WS_Debt_relief_remedies_11.png"
+    }
+   ],
+   "galleryData": [
+    {
+     "title": "Shiv Shakti in Sawan: Divine Union in Devotion",
+     "status": "publish",
+     "slug": "shiv-shakti-in-sawan",
+     "photos": [
+      {
+       "photo_id": 328,
+       "gallery_id": 60,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.46.58_AM.png",
+       "title": "Shiva & Parvati – The Cosmic Couple",
+       "description": "<p>Lord Shiva and Goddess Parvati represent the perfect union of strength and compassion—of stillness and energy.</p>",
+       "input_order": 0,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 329,
+       "gallery_id": 60,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.48.01_AM.png",
+       "title": "Feminine Meets Masculine",
+       "description": "<p>Shiva is consciousness; Shakti is creation. Together, they are complete. Sawan reminds us of this cosmic harmony.</p>",
+       "input_order": 1,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 330,
+       "gallery_id": 60,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.48.54_AM.png",
+       "title": "Devotion as a Love Story",
+       "description": "<p>Parvati’s unwavering devotion won Shiva’s heart. Their story inspires faith, patience, and the power of pure love.</p>",
+       "input_order": 2,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 331,
+       "gallery_id": 60,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.50.13_AM.png",
+       "title": "The Swing of Seasons & Souls",
+       "description": "<p>Sawan jhulas are not just festive—they symbolize the rhythmic dance of feminine energy in union with the divine.</p>",
+       "input_order": 3,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 332,
+       "gallery_id": 60,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-31_at_10.51.59_AM.png",
+       "title": " When Devotion Balances Energies",
+       "description": "<p>In every prayer, there’s both strength and surrender—just like Shiv and Shakti. Sawan teaches us how to honor both.</p><p><br></p><p>May this Sawan help you unite your own inner Shiva and Shakti—bringing peace, power, and purpose into your life.</p>",
+       "input_order": 4,
+       "type": "gallery"
+      }
+     ]
+    },
+    {
+     "title": " Shiva Through the Lens: Sacred Symbols of Sawan",
+     "status": "publish",
+     "slug": " shiva-through-the-lens",
+     "photos": [
+      {
+       "photo_id": 316,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_12.15.53_PM.png",
+       "title": "Rudraksha Beads",
+       "description": "<p>Rudraksha, Shiva’s teardrops, are worn for protection, peace, and spiritual growth—each bead a step closer to the divine.</p>",
+       "input_order": 0,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 317,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.07.50_AM.png",
+       "title": "Nandi (The Sacred Bull)",
+       "description": "<p>Nandi, Shiva’s vahana and devotee, embodies loyalty, patience, and silent strength—always waiting, always faithful.</p>",
+       "input_order": 1,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 318,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.06.36_AM.png",
+       "title": "Bel Patra (Bael Leaves)",
+       "description": "<p>Offering Bel Patra pleases Lord Shiva—the three leaves symbolize purity of mind, body, and soul.</p>",
+       "input_order": 2,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 319,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.00.03_AM.png",
+       "title": "Damru (Drum)",
+       "description": "<p>The Damru represents the cosmic sound of creation—<em>AUM</em>—the eternal rhythm from which the universe was born.</p>",
+       "input_order": 3,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 320,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_12.14.06_PM.png",
+       "title": "Trishul (Trident)",
+       "description": "<p>The Trishul symbolizes Shiva’s power to destroy ego, ignorance, and illusion—guiding us toward truth and liberation.</p>",
+       "input_order": 4,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 321,
+       "gallery_id": 59,
+       "photo": "https://talktoguruji.com/upload/file/Screenshot_2025-07-30_at_11.09.53_AM.png",
+       "title": "Shiva Linga",
+       "description": "<p>The Shiva Linga is not just a form—it’s the formless. A symbol of infinite creation, cosmic energy, and divine consciousness.</p>",
+       "input_order": 5,
+       "type": "gallery"
+      }
+     ]
+    },
+    {
+     "title": "Navratri Sacred Colors: A Photo Gallery for Each Day - Updated",
+     "status": "draft",
+     "slug": "navratri-sacred-colors-photo-gallery",
+     "photos": [
+      {
+       "photo_id": 186,
+       "gallery_id": 47,
+       "photo": "https://talktoguruji.com/upload/file/Day_2_Red-navratri.webp",
+       "title": "Day 2: Red - The Symbol of Love and Vitality (Updated)",
+       "description": "<p>On the second day, Red takes center stage, reflecting passion and energy. Updated details here.</p>",
+       "input_order": 0,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 187,
+       "gallery_id": 47,
+       "photo": "https://talktoguruji.com/upload/file/Day_3_Royal_Blue_navratri.webp",
+       "title": "Day 3: Royal Blue - The Hue of Elegance and Richness",
+       "description": "<p>Royal Blue graces Day 3 with vivid brilliance, symbolizing richness and tranquility.</p>",
+       "input_order": 1,
+       "type": "gallery"
+      }
+     ]
+    },
+    {
+     "title": "Three Prosperous Yogas to Transform Your 2025",
+     "status": "publish",
+     "slug": "three-prosperous-yogas-transform-2025",
+     "photos": [
+      {
+       "photo_id": 182,
+       "gallery_id": 46,
+       "photo": "https://talktoguruji.com/upload/file/Laxmi_Narayan_Yog.webp",
+       "title": "Lakshmi Narayan Yoga",
+       "description": "<p><strong style=\"background-color: transparent;\">Blessings of Wealth and Prosperity</strong></p><p><br></p><p><span style=\"background-color: transparent;\">Lakshmi Narayan Yoga graces Pisces from February 27 to May 7, 2025, bestowing wealth and blessings on Gemini, Virgo, Sagittarius, and Pisces.</span></p>",
+       "input_order": 2,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 183,
+       "gallery_id": 46,
+       "photo": "https://talktoguruji.com/upload/file/Malavvya_rajyog.webp",
+       "title": "Malavya Rajyoga",
+       "description": "<p><strong style=\"background-color: transparent;\">A Rare and Powerful Rajyoga</strong></p><p><br></p><p><span style=\"background-color: transparent;\"><span class=\"ql-cursor\">﻿</span>The first auspicious yoga of 2025, Malavya Rajyoga, forms on January 28, bringing wealth and beauty to Taurus, Gemini, Virgo, and Pisces</span></p>",
+       "input_order": 1,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 184,
+       "gallery_id": 46,
+       "photo": "https://talktoguruji.com/upload/file/Gaj_kesari_yog.webp",
+       "title": "Gajakesari Yoga",
+       "description": "<p><strong style=\"background-color: transparent;\">Auspicious and Transformative Yoga</strong></p><p><br></p><p><span style=\"background-color: transparent;\">On May 15, 2025, Gajakesari Yoga forms as Jupiter enters Gemini, enhancing wealth and positivity for Gemini, Virgo, Aquarius, Leo, and Aries.</span></p>",
+       "input_order": 3,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 185,
+       "gallery_id": 46,
+       "photo": "https://talktoguruji.com/upload/file/Rajyogas_in_2025.webp",
+       "title": "Three Prosperous Yogas to Transform Your 2025",
+       "description": "<p><strong style=\"background-color: transparent;\">Bringing Prosperity in 2025</strong></p><p><br></p><p><span style=\"background-color: transparent;\">Discover the three auspicious yogas forming in 2025 that promise wealth and prosperity. Learn how these yogas will influence your zodiac sign and bring positive changes.</span></p><p><br></p><p><br></p>",
+       "input_order": 0,
+       "type": "gallery"
+      }
+     ]
+    },
+    {
+     "title": "4 Most Dangerous Zodiac Signs",
+     "status": "publish",
+     "slug": "most-dangerous-sunsigns",
+     "photos": [
+      {
+       "photo_id": 122,
+       "gallery_id": 44,
+       "photo": "https://talktoguruji.com/upload/file/Leo_Proud_king.png",
+       "title": "Leo – The Proud King",
+       "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Leo: The Proud King</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Leos exude strength, leadership, and pride. When their authority is challenged, their fiery temper and immense pride can turn them into a formidable force.</span></p>",
+       "input_order": 2,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 123,
+       "gallery_id": 44,
+       "photo": "https://talktoguruji.com/upload/file/Aries__The_warrier.png",
+       "title": "Aries – The Fearless Warrior",
+       "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Aries: The Fearless Warrior</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Known for their boldness and unyielding nature, Aries’ fearlessness and fiery temperament often lead them to clash with anyone who dares to stand in their way.</span></p>",
+       "input_order": 0,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 124,
+       "gallery_id": 44,
+       "photo": "https://talktoguruji.com/upload/file/Intense_scorpion_strategist.png",
+       "title": "Scorpio – The Intense Strategist",
+       "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Scorpio: The Intense Strategist</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">With their deep, mysterious nature and relentless determination, Scorpios can be dangerous when their intense emotions or loyalty is tested.</span></p>",
+       "input_order": 1,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 125,
+       "gallery_id": 44,
+       "photo": "https://talktoguruji.com/upload/file/Mastermind_Capricorn.png",
+       "title": "Capricorn – The Calculated Mastermind",
+       "description": "<h3><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Capricorn: The Calculated Mastermind</span></h3><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Capricorns are known for their calculated approach and perseverance. When pushed to their limits, they can be cold, calculating, and highly dangerous in their pursuit of success.</span></p>",
+       "input_order": 3,
+       "type": "gallery"
+      }
+     ]
+    },
+    {
+     "title": "Special Snan (Bathing) Days at Mahakumbh",
+     "status": "publish",
+     "slug": "special-snan-days-mahakumbh2025",
+     "photos": []
+    },
+    {
+     "title": "Sadhus and Saints of Mahakumbh: A Spiritual Odyssey",
+     "status": "publish",
+     "slug": "sadhus-and-saints-of-mahakumbh: a-spiritual-odyssey",
+     "photos": [
+      {
+       "photo_id": 68,
+       "gallery_id": 35,
+       "photo": "https://talktoguruji.com/upload/file/naga_sadhu_procession11.svg",
+       "title": "The Spiritual Heart of Mahakumbh",
+       "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Witness the devotion and energy of sadhus and saints at the world’s largest spiritual gathering.</span></p>",
+       "input_order": 0,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 69,
+       "gallery_id": 35,
+       "photo": "https://talktoguruji.com/upload/file/Naga_sadhu_2222.svg",
+       "title": "Naga Sadhus: Warriors of Spirituality",
+       "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Symbolizing renunciation, Naga Sadhus are known for their deep meditation and austerity.</span></p>",
+       "input_order": 1,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 70,
+       "gallery_id": 35,
+       "photo": "https://talktoguruji.com/upload/file/aghori_sadhu_meditation_3333.svg",
+       "title": "Aghoris: Seekers of the Divine Truth",
+       "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Aghoris represent the extreme path of spirituality, focusing on the liberation of the soul.</span></p>",
+       "input_order": 2,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 71,
+       "gallery_id": 35,
+       "photo": "https://talktoguruji.com/upload/file/Saints_Pooja_5555.svg",
+       "title": "Sacred Rituals and Blessings",
+       "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Experience the transformative power of ancient rituals performed by saints during the Mahakumbh.</span></p>",
+       "input_order": 3,
+       "type": "gallery"
+      },
+      {
+       "photo_id": 72,
+       "gallery_id": 35,
+       "photo": "https://talktoguruji.com/upload/file/sadhvi_pooja_4444.svg",
+       "title": "Yoginis: The Divine Feminine in Mahakumbh",
+       "description": "<p><span style=\"color: rgb(0, 0, 0); background-color: transparent;\">Honoring the significant role of women in spiritual traditions and practices at the Mahakumbh.</span></p><p><br></p><p><strong style=\"background-color: transparent; color: rgb(0, 0, 0);\">Note: All Images have been created using AI</strong></p>",
+       "input_order": 4,
+       "type": "gallery"
+      }
+     ]
+    }
+   ],
+   "testimonialData": [
+    {
+     "name": "Abhinav Chauhan",
+     "description": "<p>i had such a great experience! The astrologers were kind and accurate with their readings. It was so easy to chat or have a video call. I feel more confident about my decisions now. Highly recommend!</p>",
+     "profession": "Businessman",
+     "img_url": "https://media.istockphoto.com/id/1136413215/photo/young-man-at-street-market.webp?a=1&b=1&s=612x612&w=0&k=20&c=-e79VMWbA19l1W-8tq7-18igGSdLKsYNLkY-tWhReSE="
+    },
+    {
+     "name": "Shubham Bangwal",
+     "description": "<p>I was skeptical at first, but my birth chart reading was incredibly accurate! It gave me clarity on my career path and relationships.</p>",
+     "profession": "Developer",
+     "img_url": "https://images.unsplash.com/flagged/photo-1571367034861-e6729ad9c2d5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+     "name": "Simran Sharma",
+     "description": "The insights I got were so helpful. I love how easy it is to connect and get clear advice. It's like having a trusted guide whenever I need it!",
+     "profession": "Fashion Designer",
+     "img_url": "https://img.freepik.com/free-photo/woman-doing-close-up-photoshoot-studio_53876-14476.jpg?t=st=1738655891~exp=1738659491~hmac=c6e6a05dec53e67ec6656310a1f8936a95f6f06aeabad5c3926c42849c570046&w=996"
+    },
+    {
+     "name": "Varun Saini",
+     "description": "I was a bit skeptical at first, but after my session, I felt like everything made sense. The astrologer was friendly and really took the time to understand me. So glad I tried it!",
+     "profession": "Student",
+     "img_url": "https://plus.unsplash.com/premium_photo-1682092603230-1ce7cf8ca451?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGluZGlhbiUyMGZhY2VzfGVufDB8fDB8fHww"
+    }
+   ]
+  }
+ }
+}

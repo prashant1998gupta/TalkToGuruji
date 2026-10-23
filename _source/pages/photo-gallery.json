@@ -1,0 +1,15 @@
+{
+ "path": "/photo-gallery",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/photo-gallery/[[...slug]]",
+ "pageProps": {
+  "gallery": {
+   "allData": [],
+   "singleData": null,
+   "allSlugs": []
+  },
+  "totalPages": 1
+ }
+}

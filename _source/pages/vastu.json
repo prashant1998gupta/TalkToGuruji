@@ -1,0 +1,105 @@
+{
+ "path": "/vastu",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/vastu/[[...slug]]",
+ "pageProps": {
+  "vastuData": {
+   "data": [
+    {
+     "id": 19,
+     "slug": "Sleeping-directions-vastu",
+     "title": "Sleeping directions according to Vastu",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Sleeping_directions.webp",
+     "status": "publish"
+    },
+    {
+     "id": 18,
+     "slug": "Vastu-tips-for-placing-mirrors",
+     "title": "Vastu Tips for Placing Mirrors: Enhance Energy and Harmony in Your Home",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Placing_mirrors.webp",
+     "status": "publish"
+    },
+    {
+     "id": 17,
+     "slug": "Vastu-tips-for-daily-life",
+     "title": "Vastu Tips for Daily Life: Creating Balance and Positive Energy",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_tips_for_everyday_life.webp",
+     "status": "publish"
+    },
+    {
+     "id": 16,
+     "slug": "Vastu-for-wealth",
+     "title": "Vastu for Wealth: Unlocking Prosperity in Your Home",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_wealth.webp",
+     "status": "publish"
+    },
+    {
+     "id": 15,
+     "slug": "Vastu-for-love-and-relationships",
+     "title": "Vastu for Love and Relationships Enhancing Bonding and Harmony",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Love_and_relationships.webp",
+     "status": "publish"
+    },
+    {
+     "id": 14,
+     "slug": "Vastu-for-positive-energies",
+     "title": "Vastu for Positive Energies: Harmonize Your Space for a Better Life",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Positive_energies.webp",
+     "status": "publish"
+    },
+    {
+     "id": 13,
+     "slug": "Vastu-for-plants",
+     "title": "Vastu for Plants: Enhancing Positive Energy and Harmony at Home",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Plants.webp",
+     "status": "publish"
+    },
+    {
+     "id": 12,
+     "slug": "Vastu-for-love-and-married-life",
+     "title": "Vastu for Love and Married Life: Harmonizing Your Home for a Blissful Relationship",
+     "img_url": "https://talktoguruji.com/upload/file/Vaastu_for_Love_and_Maried_Life.webp",
+     "status": "publish"
+    },
+    {
+     "id": 11,
+     "slug": "Vastu-Shastra-for-Health",
+     "title": "Vastu Shastra for Health and Well Being",
+     "img_url": "https://talktoguruji.com/upload/file/Vaastu_for_Health.webp",
+     "status": "publish"
+    },
+    {
+     "id": 10,
+     "slug": "Vastu-for-career-success",
+     "title": "Vastu for Career Success: Aligning Your Space for Professional Growth",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_Career_success11.webp",
+     "status": "publish"
+    },
+    {
+     "id": 8,
+     "slug": "Vastu-for-commercial-properties",
+     "title": "Vastu for Commercial Properties",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_commercial_properties.webp",
+     "status": "publish"
+    },
+    {
+     "id": 3,
+     "slug": "vastu-for-buildings",
+     "title": "Vastu for Buildings: Designing Spaces with Positive Energy",
+     "img_url": "https://talktoguruji.com/upload/file/Vastu_for_buildings.webp",
+     "status": "publish"
+    },
+    {
+     "id": 2,
+     "slug": "vastu-for-home",
+     "title": "The Significance of Vastu Shastra in Home Architecture",
+     "img_url": "https://talktoguruji.com/upload/file/Vaastu_for_home.webp",
+     "status": "publish"
+    }
+   ]
+  },
+  "singleVastu": null
+ }
+}

@@ -1,0 +1,393 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ---------- People ----------
+
+model User {
+  id            String   @id @default(cuid())
+  phone         String   @unique
+  name          String?
+  email         String?
+  gender        String?
+  birthDate     String? // YYYY-MM-DD
+  birthTime     String? // HH:mm
+  birthPlace    String?
+  role          String   @default("USER") // USER | ASTROLOGER | ADMIN
+  walletBalance Int      @default(0) // in paise
+  blocked       Boolean  @default(false)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  astrologer   Astrologer?
+  transactions Transaction[]
+  sessions     ConsultSession[]
+  reviews      Review[]
+  kundlis      Kundli[]
+  bookings     PujaBooking[]
+  orders       Order[]
+  cart         CartItem[]
+  notifications Notification[]
+  payments     PaymentOrder[]
+}
+
+model OtpCode {
+  id        String   @id @default(cuid())
+  phone     String
+  code      String
+  attempts  Int      @default(0)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([phone])
+}
+
+model Astrologer {
+  id           String   @id @default(cuid())
+  userId       String   @unique
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  slug         String   @unique
+  displayName  String
+  avatar       String?
+  bio          String   @default("")
+  skills       String   @default("") // comma separated
+  languages    String   @default("") // comma separated
+  experience   Int      @default(0)
+  qualification String?
+  gender       String?
+  city         String?
+  chatPrice    Int      @default(1500) // paise per minute
+  callPrice    Int      @default(2000)
+  videoPrice   Int      @default(2500)
+  isChat       Boolean  @default(true)
+  isCall       Boolean  @default(true)
+  isVideo      Boolean  @default(true)
+  freeMinutes  Int      @default(0) // free minutes for a user's first session
+  commission   Int      @default(30) // platform commission %
+  status       String   @default("PENDING") // PENDING | APPROVED | REJECTED | SUSPENDED
+  isOnline     Boolean  @default(false) // astrologer toggled availability
+  isBusy       Boolean  @default(false)
+  featured     Boolean  @default(false)
+  rating       Float    @default(0)
+  ratingCount  Int      @default(0)
+  totalMinutes Int      @default(0)
+  earnings     Int      @default(0) // paise, astrologer share
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  sessions ConsultSession[]
+  reviews  Review[]
+  bookings PujaBooking[]
+}
+
+// ---------- Money ----------
+
+model Transaction {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  amount    Int // paise; positive credit, negative debit
+  type      String // RECHARGE | CONSULT | PUJA | ORDER | REFUND | BONUS | EARNING | PAYOUT
+  note      String   @default("")
+  refId     String?
+  balanceAfter Int
+  createdAt DateTime @default(now())
+
+  @@index([userId, createdAt])
+}
+
+// Payment gateway order (local mock gateway; swap with Razorpay later)
+model PaymentOrder {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  amount    Int // paise charged
+  credit    Int // paise credited to wallet (amount + bonus) for RECHARGE
+  purpose   String // RECHARGE | PUJA | ORDER
+  refId     String?
+  status    String   @default("CREATED") // CREATED | PAID | FAILED
+  method    String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model RechargePack {
+  id     String  @id @default(cuid())
+  amount Int // rupees
+  bonus  Int     @default(0) // percent
+  popular Boolean @default(false)
+  sort   Int     @default(0)
+}
+
+// ---------- Consultations ----------
+
+model ConsultSession {
+  id           String    @id @default(cuid())
+  userId       String
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  astrologerId String
+  astrologer   Astrologer @relation(fields: [astrologerId], references: [id], onDelete: Cascade)
+  type         String // CHAT | CALL | VIDEO
+  status       String    @default("REQUESTED") // REQUESTED | ACTIVE | ENDED | REJECTED | MISSED | CANCELLED
+  ratePerMin   Int // paise
+  freeMinutes  Int       @default(0)
+  billedMinutes Int      @default(0)
+  amount       Int       @default(0) // paise charged
+  endReason    String?
+  intake       String? // JSON: name, dob, tob, place, concern
+  startedAt    DateTime?
+  endedAt      DateTime?
+  createdAt    DateTime  @default(now())
+
+  messages Message[]
+  review   Review?
+
+  @@index([userId, createdAt])
+  @@index([astrologerId, createdAt])
+}
+
+model Message {
+  id        String   @id @default(cuid())
+  sessionId String
+  session   ConsultSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  senderId  String
+  body      String
+  kind      String   @default("TEXT") // TEXT | SYSTEM
+  createdAt DateTime @default(now())
+
+  @@index([sessionId, createdAt])
+}
+
+model Review {
+  id           String   @id @default(cuid())
+  sessionId    String?  @unique
+  session      ConsultSession? @relation(fields: [sessionId], references: [id], onDelete: SetNull)
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  astrologerId String
+  astrologer   Astrologer @relation(fields: [astrologerId], references: [id], onDelete: Cascade)
+  rating       Int
+  comment      String   @default("")
+  hidden       Boolean  @default(false)
+  createdAt    DateTime @default(now())
+}
+
+model Notification {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  title     String
+  body      String   @default("")
+  link      String?
+  read      Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+// ---------- Astrology tools ----------
+
+model Kundli {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  gender    String
+  birthDate String
+  birthTime String
+  place     String
+  lat       Float
+  lon       Float
+  tz        String
+  createdAt DateTime @default(now())
+}
+
+model DailyHoroscope {
+  id     String @id @default(cuid())
+  date   String // YYYY-MM-DD
+  sign   String
+  data   String // JSON with personal, profession, love, luck, health, travel, emotions
+
+  @@unique([date, sign])
+}
+
+// ---------- Content ----------
+
+// One table for every editorial type of the old site.
+// type: blog | news | festival | vrat | aarti | bhajan | tarot | numerology | remedy | vastu | video | story | gallery | horoscope | transit
+model Content {
+  id          String   @id @default(cuid())
+  type        String
+  slug        String
+  title       String
+  subtitle    String?
+  excerpt     String?
+  body        String   @default("") // sanitized HTML
+  image       String?
+  category    String?
+  author      String?
+  extra       String? // JSON: photos, table, videoUrl, festival date, horoscope sign/period...
+  metaTitle   String?
+  metaDesc    String?
+  published   Boolean  @default(true)
+  eventDate   DateTime? // festivals / vrats
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@unique([type, slug])
+  @@index([type, published, createdAt])
+}
+
+model Page {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  title     String
+  body      String
+  updatedAt DateTime @updatedAt
+}
+
+model Faq {
+  id       String @id @default(cuid())
+  question String
+  answer   String
+  sort     Int    @default(0)
+}
+
+model Testimonial {
+  id         String   @id @default(cuid())
+  name       String
+  profession String?
+  body       String
+  rating     Int      @default(5)
+  createdAt  DateTime @default(now())
+}
+
+model Banner {
+  id     String  @id @default(cuid())
+  image  String
+  link   String?
+  title  String?
+  active Boolean @default(true)
+  sort   Int     @default(0)
+}
+
+// ---------- Puja ----------
+
+model Puja {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  image       String?
+  price       Int // rupees, final price
+  mrp         Int // rupees, before discount
+  tier        String   @default("standard") // vip | standard
+  excerpt     String   @default("")
+  summary     String   @default("")
+  body        String   @default("")
+  duration    String?
+  metaTitle   String?
+  metaDesc    String?
+  active      Boolean  @default(true)
+  createdAt   DateTime @default(now())
+
+  bookings PujaBooking[]
+}
+
+model PujaBooking {
+  id           String   @id @default(cuid())
+  pujaId       String
+  puja         Puja     @relation(fields: [pujaId], references: [id], onDelete: Cascade)
+  userId       String
+  user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  astrologerId String?
+  astrologer   Astrologer? @relation(fields: [astrologerId], references: [id], onDelete: SetNull)
+  date         String
+  mode         String   @default("ONLINE") // ONLINE | OFFLINE
+  devoteeName  String
+  gotra        String?
+  purpose      String?
+  address      String?
+  amount       Int // paise
+  status       String   @default("PENDING_PAYMENT") // PENDING_PAYMENT | CONFIRMED | COMPLETED | CANCELLED
+  liveLink     String?
+  createdAt    DateTime @default(now())
+}
+
+// ---------- Astro Mart ----------
+
+model ProductCategory {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  name        String
+  image       String?
+  description String    @default("")
+  products    Product[]
+}
+
+model Product {
+  id          String   @id @default(cuid())
+  slug        String   @unique
+  name        String
+  categoryId  String
+  category    ProductCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  images      String   @default("[]") // JSON array
+  excerpt     String   @default("")
+  summary     String   @default("")
+  body        String   @default("")
+  price       Int // rupees for base variant
+  mrp         Int
+  stock       Int      @default(100)
+  origin      String?
+  variants    String   @default("[]") // JSON: [{label, price, mrp}]
+  featured    Boolean  @default(false)
+  active      Boolean  @default(true)
+  createdAt   DateTime @default(now())
+}
+
+model CartItem {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  productId String
+  variant   String   @default("")
+  qty       Int      @default(1)
+
+  @@unique([userId, productId, variant])
+}
+
+model Order {
+  id        String   @id @default(cuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  items     String // JSON snapshot
+  amount    Int // paise
+  address   String // JSON
+  status    String   @default("PENDING_PAYMENT") // PENDING_PAYMENT | PLACED | SHIPPED | DELIVERED | CANCELLED
+  createdAt DateTime @default(now())
+}
+
+// ---------- Leads ----------
+
+model Subscriber {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  createdAt DateTime @default(now())
+}
+
+model ContactMessage {
+  id        String   @id @default(cuid())
+  name      String
+  email     String
+  phone     String?
+  message   String
+  handled   Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model Setting {
+  key   String @id
+  value String
+}

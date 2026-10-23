@@ -1,0 +1,168 @@
+{
+ "path": "/tarot",
+ "status": 200,
+ "title": "",
+ "desc": "TalkToGuruji.com is a one-stop platform for astrology services, including live consultations, personalized Kundli reports, remedies, and many more on Talk To Guruji",
+ "page": "/tarot/[[...slug]]",
+ "pageProps": {
+  "tarotData": {
+   "allTarot": [
+    {
+     "id": 2,
+     "slug": "the-fool-tarot-card",
+     "title": "Fool Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Fools_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 3,
+     "slug": "the-magician-tarot-card",
+     "title": "The Magician Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Magician_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 5,
+     "slug": "the-death-tarot-card",
+     "title": "The Death Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Death_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 6,
+     "slug": "the-high-priestess-tarot-card",
+     "title": "The High Priestess Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_High_Priestess_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 7,
+     "slug": "the-sun-tarot-card",
+     "title": "The Sun Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Sun_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 8,
+     "slug": "The-temperance-tarot-card",
+     "title": "The Temperance Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Temperance_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 9,
+     "slug": "the-tower-tarot-card",
+     "title": "The Tower Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Tower_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 10,
+     "slug": "The-wheel-of-fortune-tarot-card",
+     "title": "The Wheel of Fortune Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Wheel_of_Fortune_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 11,
+     "slug": "The-worlds-tarot-card",
+     "title": "The World Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_World_-_Tarot_(1).webp",
+     "status": "publish"
+    },
+    {
+     "id": 12,
+     "slug": "The-strength-tarot-card",
+     "title": "The Strength Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Strength_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 13,
+     "slug": "the-justice-tarot-card",
+     "title": "The Justice Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Justice_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 14,
+     "slug": "the-lovers-tarot-card",
+     "title": "The Lovers Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Lovers_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 15,
+     "slug": "the-moon-tarot-card",
+     "title": "The Moon Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Moon_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 16,
+     "slug": "the-star-tarot-card",
+     "title": "The Star Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Star_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 17,
+     "slug": "The-chariot-tarot-card",
+     "title": "The Chariot Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Chariot_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 18,
+     "slug": "The-devil-tarot-card",
+     "title": "The Devil Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Devil_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 19,
+     "slug": "The-emperor-tarot-card",
+     "title": "The Emperor Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Emperor_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 20,
+     "slug": "the-empress-tarot-card",
+     "title": "The Empress Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Empress_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 21,
+     "slug": "the-hanged-man-tarot-card",
+     "title": "The Hanged Man Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Hanged_man_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 22,
+     "slug": "the-hermit-tarot-card",
+     "title": "The Hermit Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Hermit_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 23,
+     "slug": "The-hierophant-tarot-card",
+     "title": "The Hierophant Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Hierophant_-_Tarot.webp",
+     "status": "publish"
+    },
+    {
+     "id": 24,
+     "slug": "The-judgement-tarot-card",
+     "title": "The Judgement Tarot Card",
+     "img_url": "https://talktoguruji.com/upload/file/The_Judgement_-_Tarot_(1).webp",
+     "status": "publish"
+    }
+   ],
+   "singleTarot": null
+  }
+ }
+}

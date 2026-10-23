@@ -1,0 +1,37 @@
+{
+ "status": 200,
+ "data": [
+  {
+   "id": 1,
+   "name": "Abhinav Chauhan",
+   "img_url": "https://media.istockphoto.com/id/1136413215/photo/young-man-at-street-market.webp?a=1&b=1&s=612x612&w=0&k=20&c=-e79VMWbA19l1W-8tq7-18igGSdLKsYNLkY-tWhReSE=",
+   "profession": "Businessman",
+   "description": "<p>i had such a great experience! The astrologers were kind and accurate with their readings. It was so easy to chat or have a video call. I feel more confident about my decisions now. Highly recommend!</p>",
+   "created_at": "2025-05-31T12:15:20.000Z"
+  },
+  {
+   "id": 2,
+   "name": "Shubham Bangwal",
+   "img_url": "https://images.unsplash.com/flagged/photo-1571367034861-e6729ad9c2d5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+   "profession": "Developer",
+   "description": "<p>I was skeptical at first, but my birth chart reading was incredibly accurate! It gave me clarity on my career path and relationships.</p>",
+   "created_at": "2025-02-22T08:40:35.000Z"
+  },
+  {
+   "id": 3,
+   "name": "Simran Sharma",
+   "img_url": "https://img.freepik.com/free-photo/woman-doing-close-up-photoshoot-studio_53876-14476.jpg?t=st=1738655891~exp=1738659491~hmac=c6e6a05dec53e67ec6656310a1f8936a95f6f06aeabad5c3926c42849c570046&w=996",
+   "profession": "Fashion Designer",
+   "description": "The insights I got were so helpful. I love how easy it is to connect and get clear advice. It's like having a trusted guide whenever I need it!",
+   "created_at": "2025-02-04T07:58:19.000Z"
+  },
+  {
+   "id": 4,
+   "name": "Varun Saini",
+   "img_url": "https://plus.unsplash.com/premium_photo-1682092603230-1ce7cf8ca451?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGluZGlhbiUyMGZhY2VzfGVufDB8fDB8fHww",
+   "profession": "Student",
+   "description": "I was a bit skeptical at first, but after my session, I felt like everything made sense. The astrologer was friendly and really took the time to understand me. So glad I tried it!",
+   "created_at": "2025-02-04T07:55:40.000Z"
+  }
+ ]
+}

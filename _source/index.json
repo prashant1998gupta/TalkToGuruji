@@ -1,0 +1,260 @@
+[
+ {
+  "path": "/rituals",
+  "status": 200,
+  "title": "",
+  "file": "rituals.json"
+ },
+ {
+  "path": "/horoscope",
+  "status": 200,
+  "title": "",
+  "file": "horoscope.json"
+ },
+ {
+  "path": "/",
+  "status": 200,
+  "title": "",
+  "file": "home.json"
+ },
+ {
+  "path": "/astrology-services",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services.json"
+ },
+ {
+  "path": "/astrology-services/chat-with-astrologer",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__chat-with-astrologer.json"
+ },
+ {
+  "path": "/astrology-services/talk-to-astrologer",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__talk-to-astrologer.json"
+ },
+ {
+  "path": "/astrology-services/free-kundli",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__free-kundli.json"
+ },
+ {
+  "path": "/blogs",
+  "status": 200,
+  "title": "",
+  "file": "blogs.json"
+ },
+ {
+  "path": "/astrology-services/kundli-matching",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__kundli-matching.json"
+ },
+ {
+  "path": "/astrology-services/Panchang",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__Panchang.json"
+ },
+ {
+  "path": "/astrology-services/live-astrologers",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__live-astrologers.json"
+ },
+ {
+  "path": "/astrology-services/online-katha-booking",
+  "status": 200,
+  "title": "",
+  "file": "astrology-services__online-katha-booking.json"
+ },
+ {
+  "path": "/horoscope/daily",
+  "status": 200,
+  "title": "",
+  "file": "horoscope__daily.json"
+ },
+ {
+  "path": "/horoscope/monthly",
+  "status": 200,
+  "title": "",
+  "file": "horoscope__monthly.json"
+ },
+ {
+  "path": "/astrology-services/online-pooja-booking",
+  "status": 404,
+  "title": "",
+  "file": "astrology-services__online-pooja-booking.json"
+ },
+ {
+  "path": "/horoscope/yearly",
+  "status": 200,
+  "title": "",
+  "file": "horoscope__yearly.json"
+ },
+ {
+  "path": "/rituals/vrats",
+  "status": 200,
+  "title": "",
+  "file": "rituals__vrats.json"
+ },
+ {
+  "path": "/horoscope/weekly",
+  "status": 200,
+  "title": "",
+  "file": "horoscope__weekly.json"
+ },
+ {
+  "path": "/rituals/festivals",
+  "status": 200,
+  "title": "",
+  "file": "rituals__festivals.json"
+ },
+ {
+  "path": "/rituals/bhajan",
+  "status": 200,
+  "title": "",
+  "file": "rituals__bhajan.json"
+ },
+ {
+  "path": "/rituals/aarti",
+  "status": 200,
+  "title": "",
+  "file": "rituals__aarti.json"
+ },
+ {
+  "path": "/astrology-news",
+  "status": 200,
+  "title": "",
+  "file": "astrology-news.json"
+ },
+ {
+  "path": "/photo-gallery",
+  "status": 200,
+  "title": "",
+  "file": "photo-gallery.json"
+ },
+ {
+  "path": "/videos",
+  "status": 200,
+  "title": "",
+  "file": "videos.json"
+ },
+ {
+  "path": "/web-stories",
+  "status": 200,
+  "title": "",
+  "file": "web-stories.json"
+ },
+ {
+  "path": "/vastu",
+  "status": 200,
+  "title": "",
+  "file": "vastu.json"
+ },
+ {
+  "path": "/live-temple-darshan",
+  "status": 200,
+  "title": "",
+  "file": "live-temple-darshan.json"
+ },
+ {
+  "path": "/live-aarti-darshan",
+  "status": 200,
+  "title": "",
+  "file": "live-aarti-darshan.json"
+ },
+ {
+  "path": "/transits",
+  "status": 200,
+  "title": "",
+  "file": "transits.json"
+ },
+ {
+  "path": "/subscription-plan",
+  "status": 200,
+  "title": "",
+  "file": "subscription-plan.json"
+ },
+ {
+  "path": "/about-us",
+  "status": 200,
+  "title": "",
+  "file": "about-us.json"
+ },
+ {
+  "path": "/terms-and-conditions",
+  "status": 200,
+  "title": "",
+  "file": "terms-and-conditions.json"
+ },
+ {
+  "path": "/astrologer-terms-and-condition",
+  "status": 200,
+  "title": "",
+  "file": "astrologer-terms-and-condition.json"
+ },
+ {
+  "path": "/audio-podcast",
+  "status": 200,
+  "title": "",
+  "file": "audio-podcast.json"
+ },
+ {
+  "path": "/contact-us",
+  "status": 200,
+  "title": "",
+  "file": "contact-us.json"
+ },
+ {
+  "path": "/refund-policy",
+  "status": 200,
+  "title": "",
+  "file": "refund-policy.json"
+ },
+ {
+  "path": "/tarot",
+  "status": 200,
+  "title": "",
+  "file": "tarot.json"
+ },
+ {
+  "path": "/privacy-policy",
+  "status": 200,
+  "title": "",
+  "file": "privacy-policy.json"
+ },
+ {
+  "path": "/remedies",
+  "status": 200,
+  "title": "",
+  "file": "remedies.json"
+ },
+ {
+  "path": "/numerology",
+  "status": 200,
+  "title": "",
+  "file": "numerology.json"
+ },
+ {
+  "path": "/astro-registration",
+  "status": 200,
+  "title": "",
+  "file": "astro-registration.json"
+ },
+ {
+  "path": "/astro-mart",
+  "status": 404,
+  "title": "",
+  "file": "astro-mart.json"
+ },
+ {
+  "path": "/love-calculator",
+  "status": 404,
+  "title": "",
+  "file": "love-calculator.json"
+ }
+]
