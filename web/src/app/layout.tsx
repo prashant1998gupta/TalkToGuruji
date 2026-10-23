@@ -21,7 +21,7 @@ export const viewport: Viewport = { themeColor: '#120e24', width: 'device-width'
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${fraunces.variable} ${manrope.variable}`}>
-      <body className="min-h-dvh">
+      <body className="min-h-dvh" suppressHydrationWarning>
         <AppProvider>
           <ConsultLauncherProvider>{children}</ConsultLauncherProvider>
           <IncomingRequest />
