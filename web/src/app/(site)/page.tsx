@@ -7,6 +7,7 @@ import {
 import { db } from '@/lib/db';
 import { approvedAstrologers } from '@/lib/queries';
 import { HeroVisual } from '@/components/three/HeroVisual';
+import { liveSky } from '@/lib/astro/sky';
 import { AstroRail } from '@/components/consult/AstroRail';
 import { ContentCard } from '@/components/ui/ContentCard';
 import { SectionHeading } from '@/components/ui/primitives';
@@ -38,6 +39,7 @@ export default async function HomePage() {
     db.faq.findMany({ orderBy: { sort: 'asc' }, take: 8 }),
   ]);
   const onlineCount = Object.values(statuses).filter((s) => s.isOnline).length;
+  const sky = liveSky();
 
   return (
     <>
@@ -69,7 +71,7 @@ export default async function HomePage() {
               ))}
             </dl>
           </div>
-          <HeroVisual className="mx-auto aspect-square w-full max-w-[560px] lg:max-w-none" />
+          <HeroVisual sky={sky} className="mx-auto w-full max-w-[560px] lg:max-w-none" />
         </div>
       </section>
 
